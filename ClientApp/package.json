@@ -33,5 +33,6 @@
     "test": "cross-env CI=true react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "lint": "eslint ./src/"
-  }
+  },
+  "proxy": "https://localhost:5001/"
 }
