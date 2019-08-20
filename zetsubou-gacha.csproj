@@ -7,7 +7,7 @@
     <IsPackable>false</IsPackable>
     <SpaRoot>ClientApp\</SpaRoot>
     <DefaultItemExcludes>$(DefaultItemExcludes);$(SpaRoot)node_modules\**</DefaultItemExcludes>
-    <RootNamespace>zetsubou_gacha</RootNamespace>
+    <RootNamespace>ZetsubouGacha</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
