@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.SpaServices.ReactDevelopmentServer;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace zetsubou_gacha
+namespace ZetsubouGacha
 {
     public class Startup
     {
