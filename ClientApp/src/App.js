@@ -1,20 +1,26 @@
-import React, { Component } from 'react';
-import { Route } from 'react-router';
-import { Layout } from './components/Layout';
-import { Home } from './components/Home';
-import { FetchData } from './components/FetchData';
-import { Counter } from './components/Counter';
-
-export default class App extends Component {
-  static displayName = App.name;
-
-  render () {
-    return (
-      <Layout>
-        <Route exact path='/' component={Home} />
-        <Route path='/counter' component={Counter} />
-        <Route path='/fetch-data' component={FetchData} />
-      </Layout>
+import React from 'react';
+import Servant from "./components/Servant.js"
+import Summon from "./components/Summon.js"
+import {BrowserRouter as Router, Switch, Route} from "react-router-dom"
+class App extends React.Component{
+  
+  constructor(){
+    super()
+    this.state={}
+  }
+  
+  render(){
+    return(
+    <Router>
+      <div>
+        <Switch>
+          <Route path="/" exact component={Summon}/>
+          <Route path="/servant" exact component={Servant}/>
+        </Switch>
+      </div>
+    </Router>
     );
   }
+
 }
+export default App;
