@@ -231,8 +231,9 @@ _Pvt_Extensions
 # FAKE - F# Make
 .fake/
 
-# VSCode Artifacts
-.vscode/
+# VSCode and VS Artifacts
+*.vscode/
+*.sln
 
 # package-lock
 package-lock.json
