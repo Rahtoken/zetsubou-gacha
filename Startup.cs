@@ -5,6 +5,9 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.SpaServices.ReactDevelopmentServer;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Options;
+using ZetsubouGacha.Models;
+using ZetsubouGacha.Services;
 
 namespace ZetsubouGacha
 {
@@ -21,6 +24,14 @@ namespace ZetsubouGacha
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+
+            services.Configure<ZetsubouGachaDatabaseSettings>(
+                Configuration.GetSection(nameof(ZetsubouGachaDatabaseSettings)));
+
+            services.AddSingleton<IZetsubouGachaDatabaseSettings>(sp =>
+                sp.GetRequiredService<IOptions<ZetsubouGachaDatabaseSettings>>().Value);
+
+            services.AddSingleton<ServantService>();
 
             // In production, the React files will be served from this directory
             services.AddSpaStaticFiles(configuration =>
