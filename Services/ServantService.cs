@@ -2,6 +2,7 @@
 using MongoDB.Driver;
 using System.Collections.Generic;
 using System;
+using System.Threading.Tasks;
 
 namespace ZetsubouGacha.Services
 {
@@ -17,6 +18,18 @@ namespace ZetsubouGacha.Services
             _servants = database.GetCollection<Servant>(settings.ServantsCollectionName);
         }
 
-        public List<Servant> Get() => _servants.Find(servant => true).ToList();
+        public async Task<List<Servant>> GetAllServantsAsync()
+        {
+            var findResult = await _servants.FindAsync(servant => true);
+            var servantResults = await findResult.ToListAsync();
+            return servantResults;
+        }
+
+        public async Task<Servant> GetServantAsync(int id)
+        {
+            var findResult = await _servants.FindAsync(servant => servant.Id == id);
+            var servantResult = await findResult.FirstOrDefaultAsync();
+            return servantResult;
+        }
     }
 }

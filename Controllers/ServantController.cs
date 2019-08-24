@@ -20,9 +20,20 @@ namespace ZetsubouGacha.Controllers
         }
 
         [HttpGet]
-        public IEnumerable<Servant> Servants()
+        public async Task<IEnumerable<Servant>> Servants()
         {
-            return _servantService.Get();
+            return await _servantService.GetAllServantsAsync();
+        }
+
+        [HttpGet("{id}")]
+        public async Task<ActionResult<Servant>> Servant(int id)
+        {
+            var servant = await _servantService.GetServantAsync(id);
+            if(servant == null)
+            {
+                return NotFound();
+            }
+            return servant;
         }
     }
 }

@@ -6,21 +6,27 @@ namespace ZetsubouGacha.Models
     public class Servant
     {
         [BsonId]
-        [BsonRepresentation(BsonType.ObjectId)]
-        public string Id { get; set; }
+        public ObjectId ObjectId { get; set; }
 
+        [BsonElement("id")]
+        public int Id { get; set; }
+
+        [BsonElement("name")]
         public string Name { get; set; }
 
+        [BsonElement("title")]
         public string Title { get; set; }
 
+        [BsonElement("firstImage")]
         public string FirstAscensionImage { get; set; }
 
+        [BsonElement("finalImage")]
         public string FinalAscensionImage { get; set; }
 
+        [BsonElement("dialogue")]
         public string Dialogue { get; set; }
 
+        [BsonElement("audio")]
         public string Audio { get; set; }
-
-        public string Summary { get; set; }
     }
 }
