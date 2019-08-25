@@ -1,5 +1,7 @@
 # A project to help us learn React and ASP.NET #
 
+[![Build Status](https://dev.azure.com/16241A05C2/ZetsubouGacha/_apis/build/status/Rahtoken.zetsubou-gacha?branchName=master)](https://dev.azure.com/16241A05C2/ZetsubouGacha/_build/latest?definitionId=2&branchName=master)
+
 ### Objective ###
 ----------
 Emulate the Gacha system of the Fate series of games. Learn interesting stuff on the way.
