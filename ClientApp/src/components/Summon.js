@@ -6,6 +6,7 @@ class Summon extends React.Component{
         super()
         this.state = { redirect : false }
         this.handleOnClick = this.handleOnClick.bind(this)
+        
     }
     handleOnClick = () => {
         this.setState({ redirect : true} ) 

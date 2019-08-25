@@ -9,7 +9,7 @@ db = client['ZetsubouGacha']
 servants_collection = db['Servants']
 
 # Loading the JSON data.
-data_path = r'..\TestData\servants.json'
+data_path = '..\TestData\servantDataUpdate2.json'
 servant_data = []
 with open(os.path.join(os.path.dirname(__file__), data_path), 'r') as data:
     servant_data = json.load(data)
