@@ -1,0 +1,2072 @@
+[
+    {
+       "id":1,
+       "name":"EMIYA",
+       "title":"Wrought Iron Hero",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/0/0f/Emiya1.png/revision/latest/scale-to-width-down/350?cb=20170206153300",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/9/93/Emiya4.png/revision/latest/scale-to-width-down/350?cb=20170206153325",
+       "dialogue":"Archer-class Servant. I have been summoned and come at your request.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/5/5e/Emiyasummon.ogg/revision/latest?cb=20160324065318"
+    },
+    {
+       "id":2,
+       "name":"Gilgamesh",
+       "title":"Humanity's Oldest King",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/e/ee/Gilgamesh1.png/revision/latest/scale-to-width-down/350?cb=20170207175012",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/e/e2/Gilgamesh4.png/revision/latest/scale-to-width-down/350?cb=20170207175036",
+       "dialogue":"Hahaha! For you to summon me like this, I see your luck has run out, Mongrel!",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/a/a6/GilgameshArcherSummon.ogg/revision/latest?cb=20161219023842"
+    },
+    {
+       "id":3,
+       "name":"Robin Hood",
+       "title":"Hunter of the Woods",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/a/ae/Robin1.png/revision/latest/scale-to-width-down/350?cb=20170207175150",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/f/f5/Robin4.png/revision/latest/scale-to-width-down/350?cb=20170207175217",
+       "dialogue":"Okay, okay! I will get to work since I was summoned.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/5/5f/Robin_summon.ogg/revision/latest?cb=20160417064512"
+    },
+    {
+       "id":4,
+       "name":"Atalanta",
+       "title":"Hunter of Chastity",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/4/49/Atalanta1.png/revision/latest/scale-to-width-down/350?cb=20170207175308",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/d/d8/Atalanta4.png/revision/latest/scale-to-width-down/350?cb=20170207175319",
+       "dialogue":"Art thou my Master? Best Regards.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/63/Atalanta_summon.ogg/revision/latest?cb=20160315055513"
+    },
+    {
+       "id":5,
+       "name":"Euryale",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/0/0d/Euryale1.png/revision/latest/scale-to-width-down/350?cb=20170207175427",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/4/44/Euryale4.png/revision/latest/scale-to-width-down/350?cb=20170207175500",
+       "dialogue":"My name is Euryale. Rigght. I am a Goddess. It'll be one short life, but do your best to entertain me.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/b/b3/EuryaleSummoned.ogg/revision/latest?cb=20180522003906"
+    },
+    {
+       "id":6,
+       "name":"Arash",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/c/cd/Arashnew1.png/revision/latest/scale-to-width-down/350?cb=20180406083257",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/9/98/Arash4.png/revision/latest/scale-to-width-down/350?cb=20170207175557",
+       "dialogue":"I am Arash, Hero of the East. Nice to meet you!",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/5/50/ArashSummoned.ogg/revision/latest?cb=20170614234026"
+    },
+    {
+       "id":7,
+       "name":"Orion",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/6b/Artemis1.png/revision/latest/scale-to-width-down/350?cb=20170209155032",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/a/ae/Artemis4.png/revision/latest/scale-to-width-down/350?cb=20170209155145",
+       "dialogue":"Artemis: Yeees! It's me, Arte-...I mean, Orion!Orion: This here is the somewhat-pet-somewhat-stuffed-animal Oribe. Nice to meet you!",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/65/Orion_summon.ogg/revision/latest?cb=20160315105420"
+    },
+    {
+       "id":8,
+       "name":"David",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/4/4e/David1.png/revision/latest/scale-to-width-down/350?cb=20170209155234",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/4/47/David4.png/revision/latest/scale-to-width-down/350?cb=20170209155317",
+       "dialogue":"Archer David. Yes I will do it. Definitely will.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/7/78/DavidSummoned.ogg/revision/latest?cb=20180520040926"
+    },
+    {
+       "id":9,
+       "name":"Oda Nobunaga",
+       "title":"Demon King of the Sixth Heaven",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/9/94/Oda1-3.png/revision/latest/scale-to-width-down/350?cb=20160808080541",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/9/9f/Oda4.png/revision/latest/scale-to-width-down/350?cb=20160808080600",
+       "dialogue":"I am the Demon Archer Nobunaga, the Demon King of the Sixth Heaven!! Very well... I will allow you to be my Master!!",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/7/70/Nobusummon.ogg/revision/latest?cb=20170402120925"
+    },
+    {
+       "id":10,
+       "name":"Nikola Tesla",
+       "title":"Dr. Raiden",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/9/9f/Tesla1.png/revision/latest/scale-to-width-down/350?cb=20151228211001",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/1/15/Tesla4.png/revision/latest/scale-to-width-down/350?cb=20151228211002",
+       "dialogue":"I'm Nikola Tesla, the genius.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/3/31/TeslaSummoned.ogg/revision/latest?cb=20170808052457"
+    },
+    {
+       "id":11,
+       "name":"Arjuna",
+       "title":"The Endowed Hero",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/8/82/Arjuna1.png/revision/latest/scale-to-width-down/350?cb=20151230150758",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/65/Arjuna4.png/revision/latest/scale-to-width-down/350?cb=20151230150800",
+       "dialogue":"Servant, Archer. I'm Arjuna. Master, please command me as you wish.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/d/d9/Arjunasummon.ogg/revision/latest?cb=20160417142902"
+    },
+    {
+       "id":12,
+       "name":"Kid Gil",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/d/da/Kogil1.png/revision/latest/scale-to-width-down/350?cb=20160309054319",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/7/77/Kogil4.png/revision/latest/scale-to-width-down/350?cb=20160309054320",
+       "dialogue":"Hello, Master. My name... Let me see... You can just call me Gil.",
+       "audio":""
+    },
+    {
+       "id":13,
+       "name":"Billy the Kid",
+       "title":"Juvenile Rascal King",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/5/5d/Billy1.png/revision/latest/scale-to-width-down/350?cb=20160331035716",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/2/2c/Billy4.png/revision/latest/scale-to-width-down/350?cb=20160331035417",
+       "dialogue":"Hello! My name is Billy the Kid! Although I am a new Servant, I think I will be useful! Nice to meet you!",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/a/ab/BillyTheKidSummoned.ogg/revision/latest?cb=20170618040543"
+    },
+    {
+       "id":14,
+       "name":"Tristan",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/c/ce/Tristan1.png/revision/latest/scale-to-width-down/350?cb=20160725154405",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/4/43/Tristan4.png/revision/latest/scale-to-width-down/350?cb=20160725154436",
+       "dialogue":"Knight of the Round Table, Tristan. I have arrived in answer to the summons. I pray that I will be useful to you. Please issue your order, Master.",
+       "audio":""
+    },
+    {
+       "id":15,
+       "name":"Tawara T\u014dta",
+       "title":"Fujiwara no Hidesato",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/0/00/Tawara1.png/revision/latest/scale-to-width-down/350?cb=20160725152230",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/4/47/Tawara4.png/revision/latest/scale-to-width-down/350?cb=20160725152312",
+       "dialogue":"Yes, Servant Archer here to answer your summons. Our first order of business is a meal.",
+       "audio":""
+    },
+    {
+       "id":16,
+       "name":"Artoria Pendragon (Archer)",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/f/f5/Artoria_Archer_1.png/revision/latest/scale-to-width-down/350?cb=20180224143221",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/3/36/Artoria_Archer_4.png/revision/latest/scale-to-width-down/350?cb=20180224143340",
+       "dialogue":"G-Good morning! Archer Altria, I have come to answer your summon. This is a class I am not used to, so I don't know if I can be of use. But please take care of  me!",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/8/83/Artoria%28Archer%29SummonVoice.ogg/revision/latest?cb=20190813144950"
+    },
+    {
+       "id":17,
+       "name":"Anne Bonny & Mary Read (Archer)",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/3/37/AnneArcher1.png/revision/latest/scale-to-width-down/350?cb=20180224143631",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/b/b3/AnneArcher4.png/revision/latest/scale-to-width-down/350?cb=20180224143656",
+       "dialogue":"Anne:  Here Master 1 This swimsuit... What do you think? Mary: ...where are you staring, Master? Hmph!",
+       "audio":""
+    },
+    {
+       "id":18,
+       "name":"Chloe von Einzbern",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/4/41/Kurostage1-3.png/revision/latest/scale-to-width-down/350?cb=20180227180531",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/4/41/Kurostage1-3.png/revision/latest/scale-to-width-down/350?cb=20180227180531",
+       "dialogue":"It seems you took care of me a lot. It'd be rude to say goodbye like this, so I'll return the favor. Yes, I'm sure you'll find me useful. After all, everyone knows the big sister is better at everything.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/d/dc/ChloeEinzbernSummoning.ogg/revision/latest?cb=20171125112946"
+    },
+    {
+       "id":19,
+       "name":"Ishtar",
+       "title":"Goddess of Venus",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/b/b8/Ishtar_1stage.png/revision/latest/scale-to-width-down/350?cb=20180227180333",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/6f/Ishtar_4stage.png/revision/latest/scale-to-width-down/350?cb=20180227180421",
+       "dialogue":"Yoohoo! You're looking as laid-back as ever!But I'm relieved. That's how you should be.Huh? You don't know me? You don't remember me?...I see. Well, that's no surprise, I guess.I am Ishtar, Goddess of Beauty and Governor of Venus.Fear me and do your best to satisfy me with tribute and reverence!",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/a/a4/IshtarSummoned1.ogg/revision/latest?cb=20170812060029"
+    },
+    {
+       "id":20,
+       "name":"James Moriarty",
+       "title":"Archer of Shinjuku",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/c/cd/ArcherMoriartyStage1.png/revision/latest/scale-to-width-down/350?cb=20171206153632",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/1/15/ArcherMoriartyStage4.png/revision/latest/scale-to-width-down/350?cb=20171206153708",
+       "dialogue":"Hahahaha! You must be a peculiar Master to have summoned me! My Class is Archer. For now, I shall hold off on revealing my True Name! But I am strong. That much I can guarantee!",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/b/bd/JamesSummoned.ogg/revision/latest?cb=20170411014346"
+    },
+    {
+       "id":21,
+       "name":"EMIYA (Alter)",
+       "title":"Emiya Shirou",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/9/94/ArcherEMIYAAltStage1.png/revision/latest/scale-to-width-down/350?cb=20171206153840",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/5/5b/ArcherEMIYAAltStage4.png/revision/latest/scale-to-width-down/350?cb=20171206153919",
+       "dialogue":"So you're my Master. You look hideous. Whatever. I may be in a strange getup, but I'm an Archer. Use me well.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/62/EmiyaAlterSummoned.ogg/revision/latest?cb=20170804223324"
+    },
+    {
+       "id":22,
+       "name":"Helena Blavatsky (Archer)",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/f/fa/HelenaSummer_Stage_1.png/revision/latest/scale-to-width-down/350?cb=20170817111008",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/a/a6/HelenaSummer_Stage_4.png/revision/latest/scale-to-width-down/350?cb=20170817111025",
+       "dialogue":"I'm Helena Blavatsky, and I've changed my Saint Graph for a change of pace! I think it turned out pretty well for my first time! ...Though, I think there's probably another reason. Doing something like that shouldn't be this easy, right?",
+       "audio":""
+    },
+    {
+       "id":23,
+       "name":"Tomoe Gozen",
+       "title":"Archer Inferno",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/5/59/Portrait_Servant_184_1.png/revision/latest/scale-to-width-down/350?cb=20180216040423",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/8/85/Portrait_Servant_184_4.png/revision/latest/scale-to-width-down/350?cb=20180216040426",
+       "dialogue":"I am Archer Inferno, and I came because of warfare. Yes, it is a temporary name, not my real name. Please forgive my rudeness.",
+       "audio":""
+    },
+    {
+       "id":24,
+       "name":"Attila the San(ta)",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/b/ba/Portrait_Servant_197.png/revision/latest/scale-to-width-down/350?cb=20171215122116",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/d/d1/Portrait_Servant_197_4.png/revision/latest/scale-to-width-down/350?cb=20171215122133",
+       "dialogue":"I\u2019m Altera the San(ta). This sheep is my partner, Zerco. I\u2019m still a novice Santa, but I can become a full-fledged one this way. I ask you to guide me to the Abyss, Master. ...Achoo.",
+       "audio":""
+    },
+    {
+       "id":25,
+       "name":"Asagami Fujino",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/a/ad/AsagamiFujinoStage1New.png/revision/latest/scale-to-width-down/350?cb=20190201130005",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/9/95/AsagamiFujinoStage4.png/revision/latest/scale-to-width-down/350?cb=20180218103342",
+       "dialogue":"Hello there, dear young mage. My name is Asagami Fujino. Let's see... my class is... Archer... I wonder if that's correct? What I'm capable of is to bend all things with my supernatural force, I hope it will be of some use...",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/4/40/AsagamiFujinoSummon.ogg/revision/latest?cb=20180217062950"
+    },
+    {
+       "id":26,
+       "name":"Chiron",
+       "title":"Great Sage of Centaurs",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/4/47/Chironport1.png/revision/latest/scale-to-width-down/350?cb=20180429131947",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/5/55/Chironport4.png/revision/latest/scale-to-width-down/350?cb=20180429131949",
+       "dialogue":"Archer-class Servant, Chiron, has answered your summons. I hope my knowledge can can be of some help to you... In any case, nice to meet you. I'll use all of my strength for your sake.",
+       "audio":""
+    },
+    {
+       "id":27,
+       "name":"Jeanne d'Arc (Archer)",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/7/73/Archer_Jeanne_1.png/revision/latest/scale-to-width-down/350?cb=20180809112301",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/a/ae/Archer_Jeanne_4.png/revision/latest/scale-to-width-down/350?cb=20180809112343",
+       "dialogue":"I've answered to your summons. I'm Jeanne! Since this time it's about Archer in vacation, so I'm avoiding stiff words here. So let's enjoy and have fun with our summer vacation.",
+       "audio":""
+    },
+    {
+       "id":28,
+       "name":"Paris",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/d/db/S255Stage1.png/revision/latest/scale-to-width-down/350?cb=20190805122744",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/e/ea/S255Stage4.png/revision/latest/scale-to-width-down/350?cb=20190805122755",
+       "dialogue":"Y-yes! Archer, Paris. I\u2019ve been summoned together with Lord Apollo! I may be unskilled, but I\u2019ll do my best!",
+       "audio":""
+    },
+    {
+       "id":29,
+       "name":"Osakabehime (Archer)",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/e/ed/Osakabehime_Archer_1.png/revision/latest/scale-to-width-down/350?cb=20190814145732",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/3/3a/Osakabehime_Archer_4.png/revision/latest/scale-to-width-down/350?cb=20190814145909",
+       "dialogue":"E-Everyone, sorry to disturb you\u2026\u2026 I\u2019m Archer Osakabehime\u2026\u2026. I did my best and put on a swimsuit\u2026\u2026 H-How is it\u2026\u2026? Does it suit me? It suits me, right? I chose it in desperation, so\u2026\u2026 If you could say it suits me, I\u2019d get some confidence\u2026\u2026.",
+       "audio":""
+    },
+    {
+       "id":30,
+       "name":"Artoria Pendragon",
+       "title":"King of Knights of the Holy Sword",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/4/43/Artoria1.png/revision/latest/scale-to-width-down/350?cb=20170206150711",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/1/1a/Artoria4.png/revision/latest/scale-to-width-down/350?cb=20170206150733",
+       "dialogue":"Let me ask. Are you my Master?",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/8/8b/Artoriasummon.ogg/revision/latest?cb=20160310052216"
+    },
+    {
+       "id":31,
+       "name":"Artoria Pendragon (Alter)",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/a/aa/Alter1.png/revision/latest/scale-to-width-down/350?cb=20170206151011",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/e/e0/Alter4.png/revision/latest/scale-to-width-down/350?cb=20170206151033",
+       "dialogue":"...I have come in response to your summon. Are you the one who is to be my Master?",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/a/aa/Alterl_summon.ogg/revision/latest?cb=20160315053851"
+    },
+    {
+       "id":32,
+       "name":"Artoria Pendragon (Lily)",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/2/23/Lily1.png/revision/latest/scale-to-width-down/350?cb=20170206151257",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/0/04/Lily4.png/revision/latest/scale-to-width-down/350?cb=20170206151403",
+       "dialogue":"It is nice to meet you Master. Since I am still in training, please call me Saber Lily. It is a pleasure to meet you.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/1/17/Lilysummon.ogg/revision/latest?cb=20160618024221"
+    },
+    {
+       "id":33,
+       "name":"Nero Claudius",
+       "title":"Emperor of Roses",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/7/71/Nero1.png/revision/latest/scale-to-width-down/350?cb=20170206151617",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/4/42/Nero4.png/revision/latest/scale-to-width-down/350?cb=20170206151642",
+       "dialogue":"Servant Saber. Nero Claudius, I have arrived in response to your call! Umu, you have chosen the right one! You sure know how to tell the difference!",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/f/f4/Nero_Summon.ogg/revision/latest?cb=20181006062501"
+    },
+    {
+       "id":34,
+       "name":"Siegfried",
+       "title":"Tenacious Dragon Slayer",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/9/9e/Siegfried1.png/revision/latest/scale-to-width-down/350?cb=20170206152037",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/c/c5/Siegfried4.png/revision/latest/scale-to-width-down/350?cb=20170206152102",
+       "dialogue":"Saber, Siegfried. I have come in response to your summons. Please give me the order.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/65/Siegsummon.ogg/revision/latest?cb=20160421051211"
+    },
+    {
+       "id":35,
+       "name":"Gaius Julius Caesar",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/2/2b/Caesar1.png/revision/latest/scale-to-width-down/350?cb=20161104071940",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/f/f3/Caesar4.png/revision/latest/scale-to-width-down/350?cb=20161104071942",
+       "dialogue":"Saber... Saber?I wonder what makes me a Saber?",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/8/87/Caesar_Summon.ogg/revision/latest?cb=20170225183138"
+    },
+    {
+       "id":36,
+       "name":"Attila",
+       "title":"Great King of Destruction",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/c/c5/Attila1.png/revision/latest/scale-to-width-down/350?cb=20170206152449",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/e/ea/Attila4.png/revision/latest/scale-to-width-down/350?cb=20170206152512",
+       "dialogue":"My name is Altera....I am the Hun and I am a warrior serving the God of War.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/c/c2/AttilaSummoning.ogg/revision/latest?cb=20171126112921"
+    },
+    {
+       "id":37,
+       "name":"Gilles de Rais (Saber)",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/e/ec/Giless1.png/revision/latest/scale-to-width-down/350?cb=20170206152708",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/3/30/Gilless4.png/revision/latest/scale-to-width-down/350?cb=20170206152729",
+       "dialogue":"Saber, Gilles de Rais. I have come at your request.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/3/37/GillesRaisSaberSummoning.ogg/revision/latest?cb=20171126114843"
+    },
+    {
+       "id":38,
+       "name":"Chevalier d'Eon",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/a/ae/Chevalier1.png/revision/latest/scale-to-width-down/350?cb=20170206152948",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/a/a0/Chevalier4.png/revision/latest/scale-to-width-down/350?cb=20170206153009",
+       "dialogue":"My name is Chevalier d'Eon. I am the knight that will protect you and the royalty of France...Knight of the White Lily!",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/a/a6/Deonsummon.ogg/revision/latest?cb=20160617134455"
+    },
+    {
+       "id":39,
+       "name":"Okita S\u014dji",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/3/3a/Okita_Stage_1.png/revision/latest/scale-to-width-down/350?cb=20180401084031",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/1/1d/Okita_Stage_4.png/revision/latest/scale-to-width-down/350?cb=20180401083916",
+       "dialogue":"I've arrived! Shinsengumi's First Unit Captain, Okita Souji!  Are you my Master? ...What? My haori? I...must have misplaced it...",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/2/22/Okitasummon.ogg/revision/latest?cb=20160315150255"
+    },
+    {
+       "id":40,
+       "name":"Fergus mac R\u00f3ich",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/7/7b/Fergus1.png/revision/latest/scale-to-width-down/350?cb=20151210053504",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/9/98/Fergus4.png/revision/latest/scale-to-width-down/350?cb=20151210053505",
+       "dialogue":"Hey, I'm a Saber-Class Servant. I have been summoned by your request.My name is Fergus mac R\u00f3ich.Let's see... is C\u00fa Chulainn here?",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/4/47/FergusSummoned.ogg/revision/latest?cb=20171209180555"
+    },
+    {
+       "id":41,
+       "name":"Mordred",
+       "title":"Knight of Treachery",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/8/8f/Mordred1.png/revision/latest/scale-to-width-down/350?cb=20151228211252",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/4/47/Mordred4.png/revision/latest/scale-to-width-down/350?cb=20151228211253",
+       "dialogue":"I am Saber, name's Mordred. Is my father here?",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/5/53/MordredSummoned.ogg/revision/latest?cb=20170811161109"
+    },
+    {
+       "id":42,
+       "name":"Nero Claudius (Bride)",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/d/da/Nerobride1.png/revision/latest/scale-to-width-down/350?cb=20160210075206",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/64/Nerobride4.png/revision/latest/scale-to-width-down/350?cb=20160210075207",
+       "dialogue":"Umu... I am back with a new dress! Call me Bride Saber, or Nero Bride!",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/a/af/NeroBrideSummon.ogg/revision/latest?cb=20161007155412"
+    },
+    {
+       "id":43,
+       "name":"Ry\u014dgi Shiki (Saber)",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/d/d0/Shikisaber1.png/revision/latest/scale-to-width-down/350?cb=20160311015646",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/2/26/Shikisaber4.png/revision/latest/scale-to-width-down/350?cb=20160311015721",
+       "dialogue":"Saber-class Servant, Ryougi Shiki. I have answered your summons. ...Hehe, I wonder if this is good enough? I know there's a limit to being unique, but I am counting on you Master.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/7/76/RyougiSabersummon.ogg/revision/latest?cb=20160522045647"
+    },
+    {
+       "id":44,
+       "name":"Lancelot (Saber)",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/0/09/LancelotS1.png/revision/latest/scale-to-width-down/350?cb=20160725145213",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/9/90/LancelotS4.png/revision/latest/scale-to-width-down/350?cb=20160725145244",
+       "dialogue":"Saber-class Servant, Lancelot, has arrived.  It may be just for a moment, but I shall offer my sword to you, Master.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/d/d7/LancelotSummoning.ogg/revision/latest?cb=20171126185603"
+    },
+    {
+       "id":45,
+       "name":"Gawain",
+       "title":"Holy Sword of the Sun",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/5/53/Gawain1.png/revision/latest/scale-to-width-down/350?cb=20160731053049",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/1/14/Gawain4.png/revision/latest/scale-to-width-down/350?cb=20160731053050",
+       "dialogue":"Knight of the Round Table, Gawain. I look forward to working with you.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/4/40/GawainSummoned.ogg/revision/latest?cb=20171101191725"
+    },
+    {
+       "id":46,
+       "name":"Bedivere",
+       "title":"The Silver Arm",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/8/88/Bedivere1.png/revision/latest/scale-to-width-down/350?cb=20170209155609",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/3/37/Bedivere4.png/revision/latest/scale-to-width-down/350?cb=20170209155632",
+       "dialogue":"Saber, Bedivere. Henceforth, I shall become your Servant. I believe that is for the sake of my king.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/b/b7/BedivereSummoned.ogg/revision/latest?cb=20171208142304"
+    },
+    {
+       "id":47,
+       "name":"Elizabeth B\u00e1thory (Brave)",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/7/7a/EliBraveStage1-3.png/revision/latest/scale-to-width-down/350?cb=20180227180214",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/66/EliBraveStage4.png/revision/latest/scale-to-width-down/350?cb=20180227180225",
+       "dialogue":"The party has gathered to venture forth! Are you ready? I, the new, graceful Saber Servant start my advance! With that said, give me some embers, please! Raise my level!",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/2/2e/ElizabethBathoryBraveTemporal_Summoning.ogg/revision/latest?cb=20171126123208"
+    },
+    {
+       "id":48,
+       "name":"Miyamoto Musashi",
+       "title":"Flower of Tengen",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/d/d7/MusashiStage01.png/revision/latest/scale-to-width-down/350?cb=20171206153058",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/c/cc/MusashiStage04.png/revision/latest/scale-to-width-down/350?cb=20171206153137",
+       "dialogue":"Shinmen Musashi-no-Kami Fujiwara-no-Harunob...!? Sorry, let me start over! Servant Saber, Shinmen Musashi at your service! Make my stay a fun one, Master!",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/7/76/MusashiSummon.ogg/revision/latest?cb=20170104020744"
+    },
+    {
+       "id":49,
+       "name":"Arthur Pendragon (Prototype)",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/2/2b/Arthur1.png/revision/latest/scale-to-width-down/350?cb=20171206153236",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/8/86/Arthur4.png/revision/latest/scale-to-width-down/350?cb=20171206153333",
+       "dialogue":"I am Saber. I am a Servant who protects you and the world.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/e/ec/ArthurPrototypeSummoned.ogg/revision/latest?cb=20170810202221"
+    },
+    {
+       "id":50,
+       "name":"Suzuka Gozen",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/4/48/SuzukaGozen1.png/revision/latest/scale-to-width-down/350?cb=20180227180056",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/7/72/SuzukaGozen4.png/revision/latest/scale-to-width-down/350?cb=20180227180119",
+       "dialogue":"Servant, Saber, I'm totally here 'cuz I was summoned! Or something like that\u2605",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/7/71/SuzukaGozenSummoned.ogg/revision/latest?cb=20170809072029"
+    },
+    {
+       "id":51,
+       "name":"Frankenstein (Saber)",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/b/be/FranSaber1.png/revision/latest/scale-to-width-down/350?cb=20180407083807",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/a/a5/FrankSaberstage4.png/revision/latest/scale-to-width-down/350?cb=20180407083857",
+       "dialogue":"Saber-class Servant! Frankenstein's Monster. It's summer, and now I'm not so harsh! Let's get along, 'kay?",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/4/45/FranksteinSummerSummoning.ogg/revision/latest?cb=20171124211915"
+    },
+    {
+       "id":52,
+       "name":"Yagy\u016b Munenori",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/9/9b/Portrait_Servant_187_1.png/revision/latest/scale-to-width-down/350?cb=20180701163559",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/68/Portrait_Servant_187_4.png/revision/latest/scale-to-width-down/350?cb=20180701163647",
+       "dialogue":"Saber, Yagy\u016b Tajima-no-Kami Munenori. From now on, I will be serving you as my Master. No matter what your command is, I shall obey.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/7/77/YagyuMunenoriSummoned.ogg/revision/latest?cb=20171113145533"
+    },
+    {
+       "id":53,
+       "name":"Medb (Saber)",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/e/eb/MedbSaber1.png/revision/latest/scale-to-width-down/350?cb=20180816151945",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/67/MedbSaber4.png/revision/latest/scale-to-width-down/350?cb=20180816152033",
+       "dialogue":"At last it's here, here it is! In an long awaited swimsuit form, Queen Medb has manifested! Heroic spirits who can match up to my skin's value... there aren't any. Hey, don't you think so too?",
+       "audio":""
+    },
+    {
+       "id":54,
+       "name":"Diarmuid Ua Duibhne (Saber)",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/3/34/1st_Saber_Diarmud.png/revision/latest/scale-to-width-down/350?cb=20180905102600",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/69/4th_Saber_Diarmud.png/revision/latest/scale-to-width-down/350?cb=20180905102623",
+       "dialogue":"Servant, Saber. Diarmuid Ua Duibhne of the Knights of Fianna. Allow me to let you serve as a knight.",
+       "audio":""
+    },
+    {
+       "id":55,
+       "name":"Beni-enma",
+       "title":"Tongue-Cut Sparrow Benienma",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/2/20/Servant1art.png/revision/latest/scale-to-width-down/350?cb=20181231162253",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/3/30/Servant4art.png/revision/latest/scale-to-width-down/350?cb=20181231162548",
+       "dialogue":"Welcome to the Enma Pavilion.  I am delighted to meet you, honorable guest...is not how it goes, right.  Servant; Saber. The Tongue-Cut Sparrow, Benienma. I have come here to offer my services.  Please take care of me from now on.",
+       "audio":""
+    },
+    {
+       "id":56,
+       "name":"Jason",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/c/c6/S254Stage1.png/revision/latest/scale-to-width-down/350?cb=20190805071141",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/d/d5/S254Stage4.png/revision/latest/scale-to-width-down/350?cb=20190805071153",
+       "dialogue":"Saber, Jason. I have arrived according to your summoning. I\u2019m a hero but before that I\u2019m a captain. Okay? Be careful not to send me to the front. Don\u2019t ever send me out!",
+       "audio":""
+    },
+    {
+       "id":57,
+       "name":"C\u00fa Chulainn",
+       "title":"Child of Light",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/3/31/Cuchulainn1.png/revision/latest/scale-to-width-down/350?cb=20170207175728",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/6f/Cuchulainn4.png/revision/latest/scale-to-width-down/350?cb=20170207175807",
+       "dialogue":"Lancer-class Servant! I have been summoned and come at your request. Let's take this easy Master!",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/3/32/CuLancersummon.ogg/revision/latest?cb=20160417151327"
+    },
+    {
+       "id":58,
+       "name":"Elizabeth B\u00e1thory",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/64/ElizabethB1.png/revision/latest/scale-to-width-down/350?cb=20170207181302",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/e/e2/ElizabethB4.png/revision/latest/scale-to-width-down/350?cb=20170207181254",
+       "dialogue":"Are you the new manager? Nice to meet you and please take care of me\u2661",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/8/80/Eliz4.ogg/revision/latest?cb=20160201005106"
+    },
+    {
+       "id":59,
+       "name":"Musashib\u014d Benkei",
+       "title":"Hitachibou Kaison",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/5/57/Benkeinew1.png/revision/latest/scale-to-width-down/350?cb=20180406083540",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/1/1a/Benkei4.png/revision/latest/scale-to-width-down/350?cb=20180630052201",
+       "dialogue":"I am Musashib\u014d Benkei, and I have been reincarnated as a spearman! Best regards!",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/d/d4/BenkeiSummon.ogg/revision/latest?cb=20180311003951"
+    },
+    {
+       "id":60,
+       "name":"C\u00fa Chulainn (Prototype)",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/3/3a/Cuprototype1.png/revision/latest/scale-to-width-down/350?cb=20170207181451",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/8/85/Cuprototype4.png/revision/latest/scale-to-width-down/350?cb=20170207181518",
+       "dialogue":"I am C\u00fa Chulainn from Ulster, a Lancer-class servant. Nice to meet you!",
+       "audio":""
+    },
+    {
+       "id":61,
+       "name":"Leonidas I",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/1/14/Leonidasnew1.png/revision/latest/scale-to-width-down/350?cb=20180406084711",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/a/ae/Leonidas4.png/revision/latest/scale-to-width-down/350?cb=20180630052144",
+       "dialogue":"Servant class, Lancer. Leonidas, King of Sparta. At your service!",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/3/35/LeonidasSummoned.ogg/revision/latest?cb=20171111003431"
+    },
+    {
+       "id":62,
+       "name":"Romulus",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/f/f6/Romulus1.png/revision/latest/scale-to-width-down/350?cb=20170207181726",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/b/b3/Romulus4.png/revision/latest/scale-to-width-down/350?cb=20170207181756",
+       "dialogue":"...Rome is Rome.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/e/ed/RomulusSummon.ogg/revision/latest?cb=20180523230404"
+    },
+    {
+       "id":63,
+       "name":"Hector",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/f/f9/Hector1.png/revision/latest/scale-to-width-down/350?cb=20151105190845",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/0/01/Hector4.png/revision/latest/scale-to-width-down/350?cb=20151105190846",
+       "dialogue":"Ho! I am Lancer, the name is Hektor. Have you heard of me? Oh no? Oh well, nice to meet you.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/e/ed/Hectorsummon.ogg/revision/latest?cb=20160325052830"
+    },
+    {
+       "id":64,
+       "name":"Sc\u00e1thach",
+       "title":"Queen of the Land of Shadows",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/e/e0/Scathach1.png/revision/latest/scale-to-width-down/350?cb=20151210053927",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/3/3e/Scathach4.png/revision/latest/scale-to-width-down/350?cb=20151210053935",
+       "dialogue":"I came from the Land of Shadow. My name is Sc\u00e1thach. I guess I should call you, Master?",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/7/71/Scathachsummon.ogg/revision/latest?cb=20160310070926"
+    },
+    {
+       "id":65,
+       "name":"Diarmuid Ua Duibhne",
+       "title":"Beautiful Young Warrior",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/69/Diarmuid1.png/revision/latest/scale-to-width-down/350?cb=20151210053505",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/2/20/Diarmuid4.png/revision/latest/scale-to-width-down/350?cb=20151210053507",
+       "dialogue":"I am the first spear of the Knights of Fianna, Diarmuid Ua Duibhne. I have arrived. I am now a Servant who serves you.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/9/9f/DiarmuidSummoned.ogg/revision/latest?cb=20170618051549"
+    },
+    {
+       "id":66,
+       "name":"Artoria Pendragon (Lancer Alter)",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/e/e0/Alterlancer1.png/revision/latest/scale-to-width-down/350?cb=20151228211742",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/5/57/Alterlancer4.png/revision/latest/scale-to-width-down/350?cb=20151228211743",
+       "dialogue":"Lancer, Altria. I have been summoned upon your request. Just as my beloved horse can swallow the thunder clouds, my spear will break through every rampart. I will crush everything that stands in your way.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/68/LalterSummon.ogg/revision/latest?cb=20180922230852"
+    },
+    {
+       "id":67,
+       "name":"Fionn mac Cumhaill",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/c/cf/Finn1.png/revision/latest/scale-to-width-down/350?cb=20160203163904",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/5/5b/Finn4.png/revision/latest/scale-to-width-down/350?cb=20160203163903",
+       "dialogue":"Erin's[1] Savior. The captain of the glorious Knights of Fianna.The man who rose to victory over Nuadha....Fionn mac Cumhaill is here.I'm counting on you, Master.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/c/c9/Fionn_summon.ogg/revision/latest?cb=20160315103612"
+    },
+    {
+       "id":68,
+       "name":"Li Shuwen (Lancer)",
+       "title":"No Second Strike",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/c/cd/Shuwen1.png/revision/latest/scale-to-width-down/350?cb=20160331040017",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/60/Shuwen4.png/revision/latest/scale-to-width-down/350?cb=20160331040018",
+       "dialogue":"Servant, Lancer. My name is Li Shuwen. You can use me as a spear as you please.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/f/fa/LiShuwenLancerSummoned.ogg/revision/latest?cb=20171019220704"
+    },
+    {
+       "id":69,
+       "name":"Artoria Pendragon (Lancer)",
+       "title":"Lion King",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/4/41/Lanceria1.png/revision/latest/scale-to-width-down/350?cb=20160725173343",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/0/0b/Lanceria4.png/revision/latest/scale-to-width-down/350?cb=20160725173416",
+       "dialogue":"I shall answer your call. I am your Servant, Lancer. With this lance, I will be your strength.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/4/4f/ArtoriaLancerSummoned.ogg/revision/latest?cb=20171213055550"
+    },
+    {
+       "id":70,
+       "name":"Tamamo no Mae (Lancer)",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/e/ef/TamamoLancer1.png/revision/latest/scale-to-width-down/350?cb=20180224143850",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/a/a4/TamamoLancer4.png/revision/latest/scale-to-width-down/350?cb=20180224143924",
+       "dialogue":"Ta-daaa! I heard \"beach\" and came right away. Who called for this honeymoon? Servant Lancer, Tamamo-no-Mae. I am ready to take your heart away\u2661 Would you like to go on a summer adventure with me?",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/8/8d/TamamoLancerSummon.ogg/revision/latest?cb=20180602160201"
+    },
+    {
+       "id":71,
+       "name":"Kiyohime (Lancer)",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/e/eb/KiyohimeLancer1.png/revision/latest/scale-to-width-down/350?cb=20180224144002",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/5/54/KiyohimeLancer4.png/revision/latest/scale-to-width-down/350?cb=20180224144027",
+       "dialogue":"Ufufufufu. Master~ it's your Kiyohime! Though it's embarrassing to be exposing my skin to the public eye... but it's specially just for you, Master?",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/7/74/Kiyohime_Lancer_Summon.ogg/revision/latest?cb=20181005222802"
+    },
+    {
+       "id":72,
+       "name":"Vlad III (EXTRA)",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/0/0c/VladIIIExtraStage1.png/revision/latest/scale-to-width-down/350?cb=20180227174842",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/7/72/VladIIIExtraStage4.png/revision/latest/scale-to-width-down/350?cb=20180227174917",
+       "dialogue":"Servant Lancer. I am Vlad III. Dear friend. Every corruption, every injustice... Let us fight to end them all.",
+       "audio":""
+    },
+    {
+       "id":73,
+       "name":"Jeanne d'Arc (Alter) (Santa Lily)",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/5/56/JeanneAlterSanta1-3.png/revision/latest/scale-to-width-down/350?cb=20171206154122",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/2/21/JeanneAlterSanta4.png/revision/latest/scale-to-width-down/350?cb=20171206154133",
+       "dialogue":"I'm Jeanne! Although it's a bit early for Christmas, let's fight together! By the way, do you know how to work this sleigh?",
+       "audio":""
+    },
+    {
+       "id":74,
+       "name":"Enkidu",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/c/cb/Enkidu1.png/revision/latest/scale-to-width-down/350?cb=20171206154313",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/d/db/Enkidu4.png/revision/latest/scale-to-width-down/350?cb=20171206154341",
+       "dialogue":"Servant, Lancer. Enkidu. Your call has activated me. Please use me as you wish. Mercy is unnecessary, Master.",
+       "audio":""
+    },
+    {
+       "id":75,
+       "name":"Medusa (Lancer)",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/c/c4/Medusalancer1.png/revision/latest/scale-to-width-down/350?cb=20171206154538",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/7/7c/Medusalancer4.png/revision/latest/scale-to-width-down/350?cb=20171206154610",
+       "dialogue":"I've materialized as a Lancer-class. My True Name is Medusa. I look forward to working with you.",
+       "audio":""
+    },
+    {
+       "id":76,
+       "name":"Jaguar Man",
+       "title":"Fujimura Taiga",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/f/f4/Jaguarman1.png/revision/latest/scale-to-width-down/350?cb=20171206154750",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/7/76/Jaguarman4.png/revision/latest/scale-to-width-down/350?cb=20171206154822",
+       "dialogue":"The mighty Jaguar Warrior is here! I'm not a tiger, so don't call me one! You over there, don't ignore me! I'm surprisingly strong if you try using me!",
+       "audio":""
+    },
+    {
+       "id":77,
+       "name":"Minamoto no Raik\u014d (Lancer)",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/e/ee/Raikou_stage_1.png/revision/latest/scale-to-width-down/350?cb=20180227180710",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/f/f7/Raikou_stage_4.png/revision/latest/scale-to-width-down/350?cb=20180227180737",
+       "dialogue":"...What's wrong, Master? Disturbs public morals? Now, what could you mean by that\u2026...is there something wrong with how I look?",
+       "audio":""
+    },
+    {
+       "id":78,
+       "name":"Parvati",
+       "title":"Matou Sakura",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/4/47/Portrait_Servant_183_1.png/revision/latest/scale-to-width-down/350?cb=20171008140941",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/0/0e/Portrait_Servant_183_4.png/revision/latest/scale-to-width-down/350?cb=20171008140915",
+       "dialogue":"Hello, Master of Chaldea. I am known as the goddess Parvati. On this occasion, I\u2019ve manifested by borrowing the body of a pure young girl. I\u2019m inexperienced with this situation as well so, will you grow together with me?",
+       "audio":""
+    },
+    {
+       "id":79,
+       "name":"H\u014dz\u014din Inshun",
+       "title":"Lancer Purgatorio",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/1/17/Portrait_Servant_186_1.png/revision/latest/scale-to-width-down/350?cb=20180701163225",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/0/09/Portrait_Servant_186_4.png/revision/latest/scale-to-width-down/350?cb=20180701163304",
+       "dialogue":"Were you surprised? Lancer, H\u014dz\u014din Inshun. Well then, I'll be in your care.",
+       "audio":""
+    },
+    {
+       "id":80,
+       "name":"Nezha",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/2/25/Portrait_Servant_193_1.png/revision/latest/scale-to-width-down/350?cb=20171129142413",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/6e/Portrait_Servant_193_4.png/revision/latest/scale-to-width-down/350?cb=20171129142501",
+       "dialogue":"Servant, Lancer, Nata. ... That's it.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/62/NezhaSummoned.ogg/revision/latest?cb=20171231005319"
+    },
+    {
+       "id":81,
+       "name":"Ereshkigal",
+       "title":"Tohsaka Rin",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/5/54/Portrait_Servant_196_1.png/revision/latest/scale-to-width-down/350?cb=20171215134259",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/9/90/Portrait_Servant_196_4.png/revision/latest/scale-to-width-down/350?cb=20171215134404",
+       "dialogue":"Servant. Lancer.\u00a0Mistress of the nether world, Ereshkigal.I came up to summon.It is against my will to lend power to one individual, but I'll give you a hand anyway as you've called me.Be grateful!...... ............ ...................I wonder why you are silent!What? I am a fine goddess!",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/8/8a/EreshkigalSummoned.ogg/revision/latest?cb=20171215162954"
+    },
+    {
+       "id":82,
+       "name":"Ibaraki D\u014dji (Lancer)",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/f/ff/BananaOniLancer1.png/revision/latest/scale-to-width-down/350?cb=20180809100211",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/1/17/BananaOniLancer4.png/revision/latest/scale-to-width-down/350?cb=20180809100256",
+       "dialogue":"Is there a festival around? I see I see. Hehehe. By tinkering with my Saint Graph, I became an oni that can have her fill at a festival, you know! I am Ibaraki Douji. One who would violate even festivals! ...munch munch",
+       "audio":""
+    },
+    {
+       "id":83,
+       "name":"Bradamante",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/1/1d/BradamanteStage1.png/revision/latest/scale-to-width-down/350?cb=20181212121620",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/d/d8/BradamanteStage4.png/revision/latest/scale-to-width-down/350?cb=20181212121700",
+       "dialogue":"One of Charlemagne's Twelve Paladins, the Knight of White Feathers, Bradamante. I have been summoned as a Lancer. On behalf of the Great King, I shall execute justice!",
+       "audio":""
+    },
+    {
+       "id":84,
+       "name":"Nagao Kagetora",
+       "title":"Uesugi Kenshin",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/0/04/Nagao_Kagetora1.png/revision/latest/scale-to-width-down/350?cb=20190704124845",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/8/81/Nagao_Kagetora4.png/revision/latest/scale-to-width-down/350?cb=20190704124855",
+       "dialogue":"That\u2019s right, Otora and all that is whatever, I\u2019ll be using the name Lancer of the Eightfold Blossom (Hakka) for the time being.  I do have a bit of confidence when combat performance.  So for now, I shall be in your care!",
+       "audio":""
+    },
+    {
+       "id":85,
+       "name":"Gareth",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/e/ea/S256Stage1.png/revision/latest/scale-to-width-down/350?cb=20190805124809",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/0/02/S256Stage4.png/revision/latest/scale-to-width-down/350?cb=20190805124820",
+       "dialogue":"I\u2019m Gareth. \u2015\u2015\u2015 Seventh seat of the Round Table, I\u2019m a knight that served King Arthur!",
+       "audio":""
+    },
+    {
+       "id":86,
+       "name":"Mysterious Alter Ego \u039b",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/2/26/S266Stage1.png/revision/latest/scale-to-width-down/350?cb=20190822093852",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/9/9f/S266Stage4.png/revision/latest/scale-to-width-down/350?cb=20190822093744",
+       "dialogue":"A shabbier summoning room than I thought\u2026\u2026. Well, it\u2019s fine. Rejoice, the most beautiful swan in this star has come. Ah, but don\u2019t talk to me familiarly. I\u2019m a top-star. I want to avoid scandals. Let\u2019s see\u2026 Could you call me Mysterious Alter Ego \u039b?",
+       "audio":""
+    },
+    {
+       "id":87,
+       "name":"Medusa",
+       "title":"Female Monster of Gorgon",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/9/9b/Medusa1.png/revision/latest/scale-to-width-down/350?cb=20170208141542",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/0/03/Medusa4.png/revision/latest/scale-to-width-down/350?cb=20170208141628",
+       "dialogue":"...You have strange preferences. If you require a sacrifice, do feel free to command me as you wish.",
+       "audio":""
+    },
+    {
+       "id":88,
+       "name":"Georgios",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/2/27/Georgenew1.png/revision/latest/scale-to-width-down/350?cb=20180406084139",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/6e/George4.png/revision/latest/scale-to-width-down/350?cb=20180630052855",
+       "dialogue":"Rider Georgios. I did hear your summons and answered the call. Let us do our best.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/2/20/SaintGeorgeSummoned.ogg/revision/latest?cb=20171214220525"
+    },
+    {
+       "id":89,
+       "name":"Edward Teach",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/d/d2/Teachnew1.png/revision/latest/scale-to-width-down/350?cb=20180406090959",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/c/c8/EdwardT4.png/revision/latest/scale-to-width-down/350?cb=20180630052758",
+       "dialogue":"My goodness! what a coincidence! Fahaha! Blackbeard has come to see you! Green is the enemy!",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/3/3b/EdwardTeachSummoned.ogg/revision/latest?cb=20180205034132"
+    },
+    {
+       "id":90,
+       "name":"Boudica",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/1/12/Boudica1.png/revision/latest/scale-to-width-down/350?cb=20170208141944",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/1/19/Boudica4.png/revision/latest/scale-to-width-down/350?cb=20170208142012",
+       "dialogue":"My name is Boudica, nice to meet you! Don't mind the formalities.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/2/2f/BoudicaSummoned.ogg/revision/latest?cb=20170618040759"
+    },
+    {
+       "id":91,
+       "name":"Ushiwakamaru",
+       "title":"Minamoto no Yoshitsune",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/0/03/Ushi1.png/revision/latest/scale-to-width-down/350?cb=20170208142104",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/4/4c/Ushi4.png/revision/latest/scale-to-width-down/350?cb=20170208142130",
+       "dialogue":"I am Ushiwakamaru and I have been called upon. Honoring the full devotion as a Samurai, I will do mu utmost best!",
+       "audio":""
+    },
+    {
+       "id":92,
+       "name":"Alexander",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/3/3f/Alex1.png/revision/latest/scale-to-width-down/350?cb=20170208142241",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/3/3d/Alex4.png/revision/latest/scale-to-width-down/350?cb=20170208142309",
+       "dialogue":"My name is Alexander. And You can call also call me Alexander the Third. Of course other nicknames are welcome too.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/b/b2/AlexanderSummoned.ogg/revision/latest?cb=20170513154511"
+    },
+    {
+       "id":93,
+       "name":"Marie Antoinette",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/5/5e/Marie1.png/revision/latest/scale-to-width-down/350?cb=20170208142354",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/1/1b/Marie4.png/revision/latest/scale-to-width-down/350?cb=20170208142429",
+       "dialogue":"Do you like me too? Very well, then let's... If so, that's great... Vive La France!",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/0/05/Marie_antoinette_summoned.ogg/revision/latest?cb=20180628175252"
+    },
+    {
+       "id":94,
+       "name":"Martha",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/a/a3/Martha1.png/revision/latest/scale-to-width-down/350?cb=20170208142646",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/9/95/Martha4.png/revision/latest/scale-to-width-down/350?cb=20170208142715",
+       "dialogue":"My name is Martha, just plain Martha...We will save the world without fail!",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/a/a2/Martha_summon.ogg/revision/latest?cb=20160417190402"
+    },
+    {
+       "id":95,
+       "name":"Francis Drake",
+       "title":"Voyager of the Storm",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/5/57/Drake1.png/revision/latest/scale-to-width-down/350?cb=20151105191741",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/7/70/Drake4.png/revision/latest/scale-to-width-down/350?cb=20151105191742",
+       "dialogue":"Are you the new Master? I'm Francis Drake. Well, I hope we can work well together.",
+       "audio":""
+    },
+    {
+       "id":96,
+       "name":"Anne Bonny & Mary Read",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/5/59/Anne1.png/revision/latest/scale-to-width-down/350?cb=20151105191740",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/d/d4/Anne4.png/revision/latest/scale-to-width-down/350?cb=20151105191740",
+       "dialogue":"Mary: Were you surprised? The two of us are one Servant. Anne: She is Mary Read. I'm Anne Bonny. Pleased to meet you.",
+       "audio":""
+    },
+    {
+       "id":97,
+       "name":"Artoria Pendragon (Santa Alter)",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/d/d4/Santaalter1.png/revision/latest/scale-to-width-down/350?cb=20151216015653",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/d/d3/Santaalter2.png/revision/latest/scale-to-width-down/350?cb=20151216015703",
+       "dialogue":"Merry Christmas, excuse me for entering from the chimney. I am the pretty Santa Claus who has answered your summon. You must be my reindeer?",
+       "audio":""
+    },
+    {
+       "id":98,
+       "name":"Astolfo",
+       "title":"Knight of Evaporated Sanity",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/3/3c/Astolfo1.png/revision/latest/scale-to-width-down/350?cb=20160309054320",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/2/29/Astolfo4.png/revision/latest/scale-to-width-down/350?cb=20160309054323",
+       "dialogue":"Yahoo! My name is Astolfo! Rider Class! And, and...umm, nice to meet you!",
+       "audio":""
+    },
+    {
+       "id":99,
+       "name":"Medb",
+       "title":"Queen of Connacht",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/b/b1/Medb1.png/revision/latest/scale-to-width-down/350?cb=20160331040019",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/8/87/Medb4.png/revision/latest/scale-to-width-down/350?cb=20160331040020",
+       "dialogue":"I am Medb. Queen Medb! Are you the might warrior, the one who will fight and die for me?",
+       "audio":""
+    },
+    {
+       "id":100,
+       "name":"Iskandar",
+       "title":"The King of Conquerors of the Distant Lands",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/7/72/Iskandar1.png/revision/latest/scale-to-width-down/350?cb=20170203174201",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/4/41/Iskandar4.png/revision/latest/scale-to-width-down/350?cb=20170203174300",
+       "dialogue":"Oh you have done well to summon me! Iskandar, King of Conquerors, shall carve out your path!",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/a/a9/Iskandarsummon.ogg/revision/latest?cb=20160510091804"
+    },
+    {
+       "id":101,
+       "name":"Sakata Kintoki (Rider)",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/5/54/Kintoki1-3.png/revision/latest/scale-to-width-down/350?cb=20170204131111",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/61/Kintoki4.png/revision/latest/scale-to-width-down/350?cb=20170204131104",
+       "dialogue":"Let's do this, Master! What? I'm a bit funkier than usual? No kidding! I'm a biker now, man! A rider!",
+       "audio":""
+    },
+    {
+       "id":102,
+       "name":"Ozymandias",
+       "title":"King of GodsPharaoh",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/5/55/Ozyman1.png/revision/latest/scale-to-width-down/350?cb=20160725180350",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/5/58/Ozyman4.png/revision/latest/scale-to-width-down/350?cb=20160725180422",
+       "dialogue":"My name is Ozymandias, King of Kings. Look on my works, ye Mighty, and despair!",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/a/ad/OzymandiasSummoned.ogg/revision/latest?cb=20170811032758"
+    },
+    {
+       "id":103,
+       "name":"Mordred (Rider)",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/a/a2/MordredRider1.png/revision/latest/scale-to-width-down/350?cb=20180224143432",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/c/c8/MordredRider4.png/revision/latest/scale-to-width-down/350?cb=20180224143510",
+       "dialogue":"Yah-hoo, Master! I came to play! Ah, keep it a secret from father! I snuck this board out secretly!",
+       "audio":""
+    },
+    {
+       "id":104,
+       "name":"Quetzalcoatl",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/d/d9/Quetz01.png/revision/latest/scale-to-width-down/350?cb=20171206155214",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/3/3d/Quetz04.png/revision/latest/scale-to-width-down/350?cb=20171206155240",
+       "dialogue":"Hiiii! The Goddess Quetzalcoatl arrives in the ring! Huh? I expected nude priests, but you're an adorable little summoner. Heehee, I don't suppose you're interested in tall, older women?",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/8/87/QuetzalcoatlSummoned.ogg/revision/latest?cb=20171127021241"
+    },
+    {
+       "id":105,
+       "name":"Christopher Columbus",
+       "title":"Rider of Resistance",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/3/39/RiderofResistanceStage1.png/revision/latest/scale-to-width-down/350?cb=20171205174541",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/7/7a/CC_A4.png/revision/latest/scale-to-width-down/350?cb=20171205174627",
+       "dialogue":"I'm the Rider of Resistance... Well, nice to meet you.",
+       "audio":""
+    },
+    {
+       "id":106,
+       "name":"Artoria Pendragon (Rider Alter)",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/9/96/SummerAlter_Stage_1.png/revision/latest/scale-to-width-down/350?cb=20170817110441",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/5/51/SummerAlter_Stage_4.png/revision/latest/scale-to-width-down/350?cb=20170817110450",
+       "dialogue":"Rider-class Servant, Altria Pendragon. Now that I'm here, brace yourself to begin living your life properly! There will be no more going back to sleep once your alarm goes off, and no more letting yourself get out of shape. I will clean everything! I will do the laundry! C-cooking... Well, I'll do my best...",
+       "audio":""
+    },
+    {
+       "id":107,
+       "name":"Ishtar (Rider)",
+       "title":"Tohsaka Rin",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/f/f7/IshtarRiderStage1-3.png/revision/latest/scale-to-width-down/350?cb=20180227180950",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/e/eb/IshtarRiderStage4.png/revision/latest/scale-to-width-down/350?cb=20180227181037",
+       "dialogue":"Rider Ishtar here. As a super special perk, I'll help you out this time. Let's just call it a little quid pro quo arrangement.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/6a/Ishtar%28Rider%29LimitedContractVoice.ogg/revision/latest?cb=20190811153843"
+    },
+    {
+       "id":108,
+       "name":"Achilles",
+       "title":"The Swift Hero",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/e/ef/Acilport1.png/revision/latest/scale-to-width-down/350?cb=20180429125659",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/2/2a/Acilport4.png/revision/latest/scale-to-width-down/350?cb=20180429125701",
+       "dialogue":"You drew a great Servant! Anyway, I'm the Rider-class Servant, Achilles. ...Yeah, yeah, the Heroic Spirit well-known for having his heel as his weak point. Well, to catch a hold of my heel is not something just anyone could do, you know! The name, \"mankind's fastest legs\", is not just for show, you know?",
+       "audio":""
+    },
+    {
+       "id":109,
+       "name":"Sakamoto Ry\u014dma",
+       "title":"Hero of Restoration",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/9/97/Ryoma_1.png/revision/latest/scale-to-width-down/350?cb=20180617153050",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/68/SakamotoRyoumaStage4.png/revision/latest/scale-to-width-down/350?cb=20180619160356",
+       "dialogue":"Ry\u014dma: \u300cI am Rider, Sakamoto Ry\u014dma. I run a detective office in this capital. I'll be counting on you for a while. Ah, I'll be happy if you also help with my detective work.\u300d Ory\u014d-san:\u300cAnd Ory\u014d-san is a helper dragon. It is hard work, but if you put in effort, I'll give you a frog.\u300d",
+       "audio":""
+    },
+    {
+       "id":110,
+       "name":"Sima Yi (Reines)",
+       "title":"Reines El-Melloi Archisorte",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/2/25/Rider_1.png/revision/latest/scale-to-width-down/350?cb=20190427134050",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/3/39/Rider_4.png/revision/latest/scale-to-width-down/350?cb=20190427134138",
+       "dialogue":"He, so you\u2019ve summoned me. Sima Zhongda is here\u2026 Er, hm, I\u2019m a Pseudo-Servant with Reines El-Melloi Archisorte, though? It\u2019s fine it\u2019s fine, the power is handed over. You can call me Reines, Sima Yi, or Zhongda, whichever you want. Take care of me, Master",
+       "audio":""
+    },
+    {
+       "id":111,
+       "name":"Leonardo Da Vinci (Rider)",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/2/25/S253Stage1.png/revision/latest/scale-to-width-down/350?cb=20190805122433",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/1/1e/S253Stage4.png/revision/latest/scale-to-width-down/350?cb=20190805122444",
+       "dialogue":"Servant, Rider. There was this and that, so I became the second Da Vinci-chan. I may not be as reliable as the previous me, but make a beautiful use of me, Master-kun",
+       "audio":""
+    },
+    {
+       "id":112,
+       "name":"Bartholomew Roberts",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/61/S257Stage1.png/revision/latest/scale-to-width-down/350?cb=20190805122909",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/5/52/S257Stage4.png/revision/latest/scale-to-width-down/350?cb=20190805122919",
+       "dialogue":"Fufu, you\u2019re quite lucky. Bartholomew Roberts. I\u2019ve arrived in response to the summoning request. Well then, let us orderly be diligent in the pirate business",
+       "audio":""
+    },
+    {
+       "id":113,
+       "name":"Carmilla (Rider)",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/65/Carmilla_Rider_1.png/revision/latest/scale-to-width-down/350?cb=20190814144735",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/a/a5/Carmilla_Rider_4.png/revision/latest/scale-to-width-down/350?cb=20190814144852",
+       "dialogue":"My, what an unexpected meeting. \u2026The atmosphere is different from usual? Fufu, is that so? At any rate, I think that me being a dangerous woman hasn\u2019t changed. Be as careful as possible, Master",
+       "audio":""
+    },
+    {
+       "id":114,
+       "name":"Medea",
+       "title":"Witch of Perfidies",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/7/7b/Medea1.png/revision/latest/scale-to-width-down/350?cb=20170208150547",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/f/f6/Medea4.png/revision/latest/scale-to-width-down/350?cb=20170208150622",
+       "dialogue":"Oh my, you are a rather cute Master!",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/9/9c/Medeasummon.ogg/revision/latest?cb=20160507105431"
+    },
+    {
+       "id":115,
+       "name":"Gilles de Rais",
+       "title":"Holy Monster",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/5/54/DeRais1.png/revision/latest/scale-to-width-down/350?cb=20170208150741",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/9/97/DeRais4.png/revision/latest/scale-to-width-down/350?cb=20170208150828",
+       "dialogue":"I am Gilles de Rais, and I have come to you at your invitation. From here on, I shall be at your command.",
+       "audio":""
+    },
+    {
+       "id":116,
+       "name":"Hans Christian Andersen",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/2/2f/Hansnew1.png/revision/latest/scale-to-width-down/350?cb=20180406084324",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/b/b1/Hans4.png/revision/latest/scale-to-width-down/350?cb=20180630053014",
+       "dialogue":"I am a third-rate servant, Andersen. Just throw me in the corner of a bookshelf.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/2/28/Hanssummon.ogg/revision/latest?cb=20160426091857"
+    },
+    {
+       "id":117,
+       "name":"William Shakespeare",
+       "title":"The Greatest Writer",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/61/Shakespearnew1.png/revision/latest/scale-to-width-down/350?cb=20180406090500",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/d/d6/Shakespeare4.png/revision/latest/scale-to-width-down/350?cb=20180630053048",
+       "dialogue":"I am Caster-class Shakespeare, and I have come to see you! So, shall we begin our story?",
+       "audio":""
+    },
+    {
+       "id":118,
+       "name":"Mephistopheles",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/f/f5/Meph1.png/revision/latest/scale-to-width-down/350?cb=20170208152631",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/6c/Meph4.png/revision/latest/scale-to-width-down/350?cb=20170208153017",
+       "dialogue":"Looks like you hit the jackpot, Master? I am the devil, Mephistopheles. And I have been called upon.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/3/3e/MephistophelesSummon.ogg/revision/latest?cb=20180204052843"
+    },
+    {
+       "id":119,
+       "name":"Wolfgang Amadeus Mozart",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/f/f0/Mozartnew1.png/revision/latest/scale-to-width-down/350?cb=20180406085732",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/3/36/Mozart4.png/revision/latest/scale-to-width-down/350?cb=20180630053111",
+       "dialogue":"I am Amadeus Wolfgang Mozart! Leave battles aside, I promise only to decorate your life!",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/c/cf/MozartSummon.ogg/revision/latest?cb=20180516221213"
+    },
+    {
+       "id":120,
+       "name":"Zhuge Liang (Lord El-Melloi II)",
+       "title":"Waver Velvet",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/b/b7/Zhuge1.png/revision/latest/scale-to-width-down/350?cb=20170208154109",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/7/7c/Zhuge4.png/revision/latest/scale-to-width-down/350?cb=20170208154245",
+       "dialogue":"I am Servant Zhuge Liang...What? You are asking if I am the wrong person? Exactly, I am actually El-Melloi the Second. But I did inherit all the powers, so there's no issue there.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/7/79/ZhugeLiangSummoned.ogg/revision/latest?cb=20170614232500"
+    },
+    {
+       "id":121,
+       "name":"C\u00fa Chulainn (Caster)",
+       "title":"Child of Light",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/0/0d/Cucaster1.png/revision/latest/scale-to-width-down/350?cb=20170208160630",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/4/44/Cucaster4.png/revision/latest/scale-to-width-down/350?cb=20170208160807",
+       "dialogue":"Oops! I guess this time I am materialized as a Caster? Oh, it's you guys! We met before right?",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/60/CuChulainnCasterSummoned.ogg/revision/latest?cb=20171122020234"
+    },
+    {
+       "id":122,
+       "name":"Elizabeth B\u00e1thory (Halloween)",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/e/e2/Halloweliz.png/revision/latest/scale-to-width-down/350?cb=20151021190217",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/68/HallowelizAsc.png/revision/latest/scale-to-width-down/350?cb=20151021190307",
+       "dialogue":"Trick or treat! There's no need for introductions, right? Demoness Elisabeth B\u00e1thory. In response to your passionate support, I have been summoned in my best dress!",
+       "audio":""
+    },
+    {
+       "id":123,
+       "name":"Tamamo no Mae",
+       "title":"Fox Priestess of Peerless Beauty",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/7/72/Tamamocaster.png/revision/latest/scale-to-width-down/350?cb=20151021214450",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/0/04/Tamamocaster4.png/revision/latest/scale-to-width-down/350?cb=20151021191259",
+       "dialogue":"I will always be there for you! Your reliable Shrine Maiden Fox, Caster, has now arrived!",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/4/43/Tamamosummon.ogg/revision/latest?cb=20160315130706"
+    },
+    {
+       "id":124,
+       "name":"Medea (Lily)",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/8/8d/Medealily1.png/revision/latest/scale-to-width-down/350?cb=20151105191738",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/4/46/Medealily5.png/revision/latest/scale-to-width-down/350?cb=20180630101317",
+       "dialogue":"I'm Medea, a Caster-class Servant. I look forward to working with you.",
+       "audio":""
+    },
+    {
+       "id":125,
+       "name":"Nursery Rhyme",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/0/0e/Rhyme1.png/revision/latest/scale-to-width-down/350?cb=20151216015839",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/5/54/Rhyme4.png/revision/latest/scale-to-width-down/350?cb=20151216015840",
+       "dialogue":"Hello to the wonderful you. Let's make this a beautiful dream.",
+       "audio":""
+    },
+    {
+       "id":126,
+       "name":"Paracelsus von Hohenheim",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/f/f7/Paracelcus1.png/revision/latest/scale-to-width-down/350?cb=20151228213414",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/7/7f/Paracelcus4.png/revision/latest/scale-to-width-down/350?cb=20151228213416",
+       "dialogue":"I have been summoned upon your request. Please, be friends with me, Paracelsus.",
+       "audio":""
+    },
+    {
+       "id":127,
+       "name":"Charles Babbage",
+       "title":"Dream of Steam",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/f/f9/Babbage1.png/revision/latest/scale-to-width-down/350?cb=20151228212323",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/4/43/Babbage4.png/revision/latest/scale-to-width-down/350?cb=20151228212324",
+       "dialogue":"My name is Steam King. I died once and now my existance lives along in the imaginary world.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/e/eb/CharlesBabbageSummoned.ogg/revision/latest?cb=20170618041426"
+    },
+    {
+       "id":128,
+       "name":"Helena Blavatsky",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/e/ea/Helena1.png/revision/latest/scale-to-width-down/350?cb=20160331034911",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/c/c5/Helena4.png/revision/latest/scale-to-width-down/350?cb=20160331035422",
+       "dialogue":"...It's all right. This Caster will guide you along the way!",
+       "audio":""
+    },
+    {
+       "id":129,
+       "name":"Thomas Edison",
+       "title":"The Wizard of Menlo Park",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/8/8f/Edison1.png/revision/latest/scale-to-width-down/350?cb=20160331035419",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/1/15/Edison4.png/revision/latest/scale-to-width-down/350?cb=20160331035420",
+       "dialogue":"Servant, Caster. I am Thomas Alva Edison! Don't worry about my looks! This is the symbol of America!",
+       "audio":""
+    },
+    {
+       "id":130,
+       "name":"Geronimo",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/7/7c/Geronimo1.png/revision/latest/scale-to-width-down/350?cb=20160331035733",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/d/d3/Geronimo4.png/revision/latest/scale-to-width-down/350?cb=20160331035421",
+       "dialogue":"Servant class, Caster. \u2026Maybe I'm known better as Geronimo.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/69/GeronimoSummoned.ogg/revision/latest?cb=20170414191418"
+    },
+    {
+       "id":131,
+       "name":"Irisviel (Dress of Heaven)",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/8/87/Iri1-3.png/revision/latest/scale-to-width-down/350?cb=20170203180154",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/6d/Iri4.png/revision/latest/scale-to-width-down/350?cb=20170203180202",
+       "dialogue":"I am from the Holy Grail. The one serving as the terminal of the Holy Grail. A temporary form. A temporary Servant. My name... Please call me Irisviel.",
+       "audio":""
+    },
+    {
+       "id":132,
+       "name":"Xuanzang Sanzang",
+       "title":"The Bonze of Tang Dynasty",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/2/2b/Xuanzang1.png/revision/latest/scale-to-width-down/350?cb=20170203180848",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/3/38/Xuanzang4.png/revision/latest/scale-to-width-down/350?cb=20170203180917",
+       "dialogue":"My name is Xuanzang Sanzang! Through the guidance of the Buddha, I have arrived! Umm, I am a Caster!",
+       "audio":""
+    },
+    {
+       "id":133,
+       "name":"Nitocris",
+       "title":"Avatar of the Sky",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/c/ce/NitocrisHD1.png/revision/latest/scale-to-width-down/350?cb=20171206155522",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/c/ca/NitocrisHD4.png/revision/latest/scale-to-width-down/350?cb=20171206155603",
+       "dialogue":"\"Servant, Caster. Reincarnation of the Sky God Horus, I, Nitocris have answered your summons. As you can see, I am a pharaoh, but vastly inexperienced. Thus, for now I shall accept you as my ally. However, I have one thing to say. Bow your head. You're being disrespectful!\"",
+       "audio":""
+    },
+    {
+       "id":134,
+       "name":"Leonardo Da Vinci",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/9/99/Davinci1.png/revision/latest/scale-to-width-down/350?cb=20160729200954",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/69/Davinci4.png/revision/latest/scale-to-width-down/350?cb=20160729195544",
+       "dialogue":"Nice to meet you once again. I am servant Leonardo Da Vinci. Yes, from now on, I will be Da Vinci-chan only for you!",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/e/e4/LeonardoDaVinciSummon.ogg/revision/latest?cb=20180112024419"
+    },
+    {
+       "id":135,
+       "name":"Marie Antoinette (Caster)",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/d/d4/Marie_Caster_1.png/revision/latest/scale-to-width-down/350?cb=20161015082015",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/5/55/Marie_Caster_4.png/revision/latest/scale-to-width-down/350?cb=20161015082232",
+       "dialogue":"I like beaches, I really do! I hope you and everyone can enjoy it, too! -Vive La France! Oh? There's a crab sitting on my head. Hehehe, How are you, Mr. Crab?",
+       "audio":""
+    },
+    {
+       "id":136,
+       "name":"Illyasviel von Einzbern",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/a/a8/Illya_stage1.png/revision/latest/scale-to-width-down/350?cb=20171205180510",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/d/d8/Illya_stage4.png/revision/latest/scale-to-width-down/350?cb=20171205180600",
+       "dialogue":"Illya - Erm, I'm called Illya. I'm a 5th elementary school grader. For now... I'm trying out being a magical girl, yes. Uhm, I'm not sure if someone like me will be useful\u2026\u2026But I'll do my very best! Ruby - Ruby-chan is here too! Let's go with plenty of cuteness and , Grand Master!",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/e/e1/IllyasvielEinzbernSummoning.ogg/revision/latest?cb=20171207122146"
+    },
+    {
+       "id":137,
+       "name":"Gilgamesh (Caster)",
+       "title":"Sovereign of Magic Wands",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/6c/Gilcaster1.png/revision/latest/scale-to-width-down/350?cb=20180228115129",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/0/05/Gilcaster4.png/revision/latest/scale-to-width-down/350?cb=20180228115210",
+       "dialogue":"Caster, Gilgamesh. I have materialized in this form to meet Uruk's time of need, not in response to your summon. Don't get cocky, mongrel.",
+       "audio":""
+    },
+    {
+       "id":138,
+       "name":"Merlin",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/f/fd/Merlin01.png/revision/latest/scale-to-width-down/350?cb=20171205180229",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/1/16/Merlin04.png/revision/latest/scale-to-width-down/350?cb=20171205180257",
+       "dialogue":"Greetings, Master of Chaldea. I am merlin. People call me the Mage of Flowers. Just call me Merlin. I don't care for formalities.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/60/MerlinSummoned.ogg/revision/latest?cb=20171108234810"
+    },
+    {
+       "id":139,
+       "name":"Scheherazade",
+       "title":"Caster of Nightless City",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/d/d7/ScheherazadeStage1.png/revision/latest/scale-to-width-down/350?cb=20171205175238",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/8/8d/ScheherazadeStage4.png/revision/latest/scale-to-width-down/350?cb=20171205175430",
+       "dialogue":"Do you called for me? I am now a Caster of the nocturnal castle... Someday, I will tell you my real name, probably, the time I have to do it when I don't want to die.",
+       "audio":""
+    },
+    {
+       "id":140,
+       "name":"Nero Claudius (Caster)",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/d/d2/Nerocaster1.png/revision/latest/scale-to-width-down/350?cb=20180228120839",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/60/Nerocaster4.png/revision/latest/scale-to-width-down/350?cb=20180228120905",
+       "dialogue":"Surprised by the sudden swimsuit? I bet you're surprised! Umu, I am ecstatic too! My heart is racing! Caster, Nero Claudius, here to answer your summon! Let's make this an unforgettable summer!",
+       "audio":""
+    },
+    {
+       "id":141,
+       "name":"Circe",
+       "title":"Caster of Okeanos",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/7/7b/Portrait_Servant_192_1.png/revision/latest/scale-to-width-down/350?cb=20171129142620",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/7/74/Portrait_Servant_192_4.png/revision/latest/scale-to-width-down/350?cb=20171129142716",
+       "dialogue":"I\u2019m Caster of Okeanos. I won\u2019t let you be lonely anymore. Since you\u2019ve called upon this Witch of Hawks. Fufu.",
+       "audio":""
+    },
+    {
+       "id":142,
+       "name":"Queen of Sheba",
+       "title":"Caster of Midrash",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/c/c2/Portrait_Servant_194_1.png/revision/latest/scale-to-width-down/350?cb=20171202170301",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/f/f2/Portrait_Servant_194_4.png/revision/latest/scale-to-width-down/350?cb=20171202170355",
+       "dialogue":"Yes, I'm here~. For now, the Caster of Midrash? Please, call me that. I'll be useful, you know?",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/6e/QueenShebaSummon.ogg/revision/latest?cb=20180708015538"
+    },
+    {
+       "id":143,
+       "name":"Sieg",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/a/a3/Siegport_a.png/revision/latest/scale-to-width-down/350?cb=20180429130612",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/7/71/SiegFinal.png/revision/latest/scale-to-width-down/350?cb=20180615134938",
+       "dialogue":"For the moment being, this is a temporary contract. This is not my first experience fighting as a servant, but this is the first time I fight as myself... I think I\u2019m saying a lot of incomprehensible things, but I\u2019m counting on you.",
+       "audio":""
+    },
+    {
+       "id":144,
+       "name":"Shuten D\u014dji (Caster)",
+       "title":"Gohou Shoujo Oni-Cure",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/0/01/Shuten_Caster.png/revision/latest/scale-to-width-down/350?cb=20181024161623",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/f/f1/Shuten_Caster_Final.png/revision/latest/scale-to-width-down/350?cb=20181024161623",
+       "dialogue":"Eeer, well. The oni's\u2026\u2026 How was it? In short, Dharmapala. That's right, the me now is a Dharmapala Girl. Since I'm an oni that controls onis, I can't ally with humans\u2026\u2026 Fufu. Pardon me, 'kay?",
+       "audio":""
+    },
+    {
+       "id":145,
+       "name":"Miyu Edelfelt",
+       "title":"Sakatsuki Miyu",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/6c/Miyu_Stage1.png/revision/latest/scale-to-width-down/350?cb=20190123154422",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/2/2f/Miyu_Stage4.png/revision/latest/scale-to-width-down/350?cb=20190123154351",
+       "dialogue":"Miyu: I'm Miyu. My surname is, temporarily, Edelfelt.  Sapphire: I'm named the Stick Magical Sapphire. \u2026\u2026I hope my older sister hasn't troubled you?",
+       "audio":""
+    },
+    {
+       "id":146,
+       "name":"Murasaki Shikibu",
+       "title":"Fujiwara no Kaoruko",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/c/c8/Murasaki_Shikibu_Art_1.png/revision/latest/scale-to-width-down/350?cb=20190206151932",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/c/cd/Murasaki_Shikibu_Art_4.png/revision/latest/scale-to-width-down/350?cb=20190206151947",
+       "dialogue":"Servant, Caster. I'm called Murasaki Shikibu.  I'm a woman who befriends sentences, who gathers words,  who nestles close to the feelings of people, so\u2026\u2026  Please use me at your own discretion\u2026\u2026",
+       "audio":""
+    },
+    {
+       "id":147,
+       "name":"Chen Gong",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/0/0e/S258Stage1.png/revision/latest/scale-to-width-down/350?cb=20190805123058",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/0/0d/Chengong4v2.png/revision/latest/scale-to-width-down/350?cb=20190822113653",
+       "dialogue":"Servant, Caster. My full name is Chen Gong, and my courtesy name is Gongtai. Being summoned like this is part of destiny. Let us associate for many years to come.",
+       "audio":""
+    },
+    {
+       "id":148,
+       "name":"Sasaki Kojir\u014d",
+       "title":"Nameless Master",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/4/46/Kojironew1.png/revision/latest/scale-to-width-down/350?cb=20180406084507",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/0/0f/Sasaki4.png/revision/latest/scale-to-width-down/350?cb=20180630053256",
+       "dialogue":"I am Sasaki Kojirou, an Assassin-class Servant. And I have been called upon to your service.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/8/8e/Sasakisummon.ogg/revision/latest?cb=20160618020435"
+    },
+    {
+       "id":149,
+       "name":"Hassan of the Cursed Arm",
+       "title":"Assassin of The White Skull",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/b/b7/Fappynew1.png/revision/latest/scale-to-width-down/350?cb=20180406084005",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/4/4a/Hassan4.png/revision/latest/scale-to-width-down/350?cb=20180630053323",
+       "dialogue":"Assassin-class Servant. I heard your call from the shadows.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/1/11/CursedArmHassanSummoned.ogg/revision/latest?cb=20170618050920"
+    },
+    {
+       "id":150,
+       "name":"Stheno",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/2/24/Stheno1.png/revision/latest/scale-to-width-down/350?cb=20170208163243",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/5/52/Stheno4.png/revision/latest/scale-to-width-down/350?cb=20170208163404",
+       "dialogue":"Haha. Trying to summon a goddess to this world, such an interesting and poor soul. You, what is your name?",
+       "audio":""
+    },
+    {
+       "id":151,
+       "name":"Jing Ke",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/d/d2/Jingke1.png/revision/latest/scale-to-width-down/350?cb=20170208163530",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/2/29/Jingke4.png/revision/latest/scale-to-width-down/350?cb=20170208163749",
+       "dialogue":"My name is Jing Ke, an Assassin-class Servant. I do feel complicated for being summoned after that failure. But let's plan well next time!",
+       "audio":""
+    },
+    {
+       "id":152,
+       "name":"Charles-Henri Sanson",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/1/16/Sansonnew1.png/revision/latest/scale-to-width-down/350?cb=20180406090257",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/4/4b/Charles4.png/revision/latest/scale-to-width-down/350?cb=20180630053350",
+       "dialogue":"My name is Charles-Henri Sanson. I have been summoned and come at your request!",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/a/a8/Charles-HenriSansonSummoned.ogg/revision/latest?cb=20180323043402"
+    },
+    {
+       "id":153,
+       "name":"Phantom of the Opera",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/66/PhantomOperaNewStage1.png/revision/latest/scale-to-width-down/350?cb=20180405180252",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/63/PhantomOpera4.png/revision/latest/scale-to-width-down/350?cb=20170203174836",
+       "dialogue":"Whoever sees my face will learn the meaning of fear...including you.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/4/4d/PhantomOfTheOperaSummon.ogg/revision/latest?cb=20180614233434"
+    },
+    {
+       "id":154,
+       "name":"Mata Hari",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/5/5c/Mataharinew1.png/revision/latest/scale-to-width-down/350?cb=20180406084847",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/0/04/MataHari4.png/revision/latest/scale-to-width-down/350?cb=20170208164603",
+       "dialogue":"Assassin-class Servant. I go by the name of Mata Hari. Nice to meet you.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/f/f0/MataHariSummon.ogg/revision/latest?cb=20180517192007"
+    },
+    {
+       "id":155,
+       "name":"Carmilla",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/61/Carmilla1.png/revision/latest/scale-to-width-down/350?cb=20170208164710",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/0/05/Carmilla4.png/revision/latest/scale-to-width-down/350?cb=20170208164855",
+       "dialogue":"Ah. I guess this must be fate. Please call me Carmilla. I am an Assassin-class Servant.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/d/d5/Carmillasummon.ogg/revision/latest?cb=20170402124648"
+    },
+    {
+       "id":156,
+       "name":"Jack the Ripper",
+       "title":"Innocent Murderer",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/6e/Jack1.png/revision/latest/scale-to-width-down/350?cb=20151216015840",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/8/89/Jack4.png/revision/latest/scale-to-width-down/350?cb=20151216015841",
+       "dialogue":"Assassin Jack the Ripper. Nice to meet you, Mother.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/d/d7/Jacksummon.ogg/revision/latest?cb=20160228090037"
+    },
+    {
+       "id":157,
+       "name":"Henry Jekyll & Hyde",
+       "title":"Double Entities",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/e/e3/Jekyll1.png/revision/latest/scale-to-width-down/350?cb=20151228212620",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/c/c1/Jekyll4.png/revision/latest/scale-to-width-down/350?cb=20151228212621",
+       "dialogue":"My name is Jekyll. I am...different from Hyde.",
+       "audio":""
+    },
+    {
+       "id":158,
+       "name":"Mysterious Heroine X",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/b/b2/HeroineX1.png/revision/latest/scale-to-width-down/350?cb=20160120115258",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/e/e2/HeroineX4.png/revision/latest/scale-to-width-down/350?cb=20160120115355",
+       "dialogue":"Code Name: Heroine X. I am a Servant summoned to deal with the recent problem of the ever-increasing number of Sabers appearing. Nice to meet you.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/8/80/Heroine_X_Summon.ogg/revision/latest?cb=20160210220444"
+    },
+    {
+       "id":159,
+       "name":"Ry\u014dgi Shiki (Assassin)",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/62/Shikiassassin1.png/revision/latest/scale-to-width-down/350?cb=20160311015500",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/b/be/Shiki_new.png/revision/latest/scale-to-width-down/228?cb=20181011140138",
+       "dialogue":"Is it your first time in a haunted house? It's pretty common in any populated city...  Well, follow me as far as you can without dying.",
+       "audio":""
+    },
+    {
+       "id":160,
+       "name":"EMIYA (Assassin)",
+       "title":"Emiya Kiritsugu",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/9/9f/Kiritsugu1.png/revision/latest/scale-to-width-down/350?cb=20170203175909",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/b/b1/Kiritsugu4.png/revision/latest/scale-to-width-down/350?cb=20170203175938",
+       "dialogue":"More dirty work huh...Doesn't matter, happens all the time.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/b/b4/Kiritsugusummon.ogg/revision/latest?cb=20160510100456"
+    },
+    {
+       "id":161,
+       "name":"Hassan of the Hundred Faces",
+       "title":"Leader of Hashasheen",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/c/c6/HundredHassan1.png/revision/latest/scale-to-width-down/350?cb=20170203175359",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/5/50/HundredHassan4.png/revision/latest/scale-to-width-down/350?cb=20170203175431",
+       "dialogue":"Now that you have command over the army of shadows, victory is at hand. You can rest easy now, Master.",
+       "audio":""
+    },
+    {
+       "id":162,
+       "name":"Shuten D\u014dji",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/f/f6/Shuten1.png/revision/latest/scale-to-width-down/350?cb=20170203180520",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/4/4a/Shuten4.png/revision/latest/scale-to-width-down/350?cb=20170203180544",
+       "dialogue":"Assassin, Shuten-Douji. Fufu. Please accept my gratitude for summoning me. I will do as I please but... you don't mind, do you?",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/f/fd/ShutenDoujiSummoning.ogg/revision/latest?cb=20180103183204"
+    },
+    {
+       "id":163,
+       "name":"F\u016bma Kotar\u014d",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/68/Kotarou1.png/revision/latest/scale-to-width-down/350?cb=20170204130346",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/2/22/Kotarou4.png/revision/latest/scale-to-width-down/350?cb=20170204130408",
+       "dialogue":"Servant, Assassin. Fuuma Kotarou. I might look like this, but please don't let that bother you...",
+       "audio":""
+    },
+    {
+       "id":164,
+       "name":"Hassan of the Serenity",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/b/ba/Hofserenity1.png/revision/latest/scale-to-width-down/350?cb=20160725145652",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/8/83/Hofserenity4.png/revision/latest/scale-to-width-down/350?cb=20160725145718",
+       "dialogue":"Everything, everything, everything as you would will it. I will offer all of myself to you. This body, this heart, all of it...",
+       "audio":""
+    },
+    {
+       "id":165,
+       "name":"Sc\u00e1thach (Assassin)",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/e/ea/ScathachAssassinArt.png/revision/latest/scale-to-width-down/350?cb=20180224144222",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/1/1f/ScathAssassin4.png/revision/latest/scale-to-width-down/350?cb=20180224144228",
+       "dialogue":"Servant, Assassin. I am Sc\u00e1thach. I adjusted my Spirit Origin a little to match the environment. Well, I suppose you don't mind. I look forward to working with you.",
+       "audio":""
+    },
+    {
+       "id":166,
+       "name":"Cleopatra",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/b/b5/CleopatraStage1.png/revision/latest/scale-to-width-down/350?cb=20171206160028",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/e/ee/CleopatraStage4.png/revision/latest/scale-to-width-down/350?cb=20171206160104",
+       "dialogue":"\"Hah, did you think I would appear from within a rolled-up carpet? ...Well, perhaps I considered it, but rejected the idea since this is our first meeting. I am the last Pharaoh, Cleopatra VII Philopator. Master, could you please refrain from holding your head higher than the sun?\"",
+       "audio":""
+    },
+    {
+       "id":167,
+       "name":"\"The Old Man of the Mountain\"",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/3/33/KingHassan01.png/revision/latest/scale-to-width-down/350?cb=20180228115330",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/1/10/KingHassan04.png/revision/latest/scale-to-width-down/350?cb=20180228115355",
+       "dialogue":"Fear not, contractor. The Old Man of the Mountain hath come in answer to thy summons. I have no name. Address me as thou wilt.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/e/e8/Summoned.ogg/revision/latest?cb=20170530034600"
+    },
+    {
+       "id":168,
+       "name":"Yan Qing",
+       "title":"Assassin of Shinjuku",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/9/93/AssassinQuingStage1.png/revision/latest/scale-to-width-down/350?cb=20171206160252",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/3/35/AssassinQuingStage4.png/revision/latest/scale-to-width-down/350?cb=20171206160316",
+       "dialogue":"\"Well, well, I'm the Assassin you've summoned up! My True Name is a secret! Whaa~t, I'm sure you'll find out soon enough!\"",
+       "audio":""
+    },
+    {
+       "id":169,
+       "name":"Wu Zetian",
+       "title":"Assassin of Nightless City",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/6a/WuZetianStage1.png/revision/latest/scale-to-width-down/350?cb=20180228120108",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/f/f1/WuZetianStage4.png/revision/latest/scale-to-width-down/350?cb=20180228120257",
+       "dialogue":"I am the master if the righteous shining metropolis, Assassin of the Nightless City! That will do for now. If I revealed my True Name, you'd be too busy prostrating yourself to me to do anything else!",
+       "audio":""
+    },
+    {
+       "id":170,
+       "name":"Nitocris (Assassin)",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/2/25/NitoAsn1.png/revision/latest/scale-to-width-down/350?cb=20180228120507",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/1/1e/NitoAsn4.png/revision/latest/scale-to-width-down/350?cb=20180228120530",
+       "dialogue":"I...am...a...nameless...pharaoh... Bow...your...head. Disrespect...disrespectful......Hey. Do...not...look...inside!",
+       "audio":""
+    },
+    {
+       "id":171,
+       "name":"Mochizuki Chiyome",
+       "title":"Assassin Para\u00edso",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/5/53/Portrait_Servant_185_1.png/revision/latest/scale-to-width-down/350?cb=20180701163818",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/b/bf/Portrait_Servant_185_4.png/revision/latest/scale-to-width-down/350?cb=20180701163846",
+       "dialogue":"Assassin Paraiso, Hasten to join in. I offer my loyalty to my new owner. Please forgive me to not reveal my true name. I'm prepared to take any punishment",
+       "audio":""
+    },
+    {
+       "id":172,
+       "name":"Kat\u014d Danz\u014d",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/0/0a/Portrait_Servant_188_1.png/revision/latest/scale-to-width-down/350?cb=20180701163945",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/7/7c/Portrait_Servant_188_4.png/revision/latest/scale-to-width-down/350?cb=20180701164009",
+       "dialogue":"Katou Danzou. Activated. Requesting input, Master. As Danzou is a shinobi, I will obey any command.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/2/22/Kat%C5%8DDanz%C5%8DSummoned.ogg/revision/latest?cb=20171124021213"
+    },
+    {
+       "id":173,
+       "name":"Osakabehime",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/2/2a/Portrait_Servant_189_1.png/revision/latest/scale-to-width-down/350?cb=20171025145534",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/e/e9/Portrait_Servant_189_4.png/revision/latest/scale-to-width-down/350?cb=20171025145801",
+       "dialogue":"Oh? Ah, yes, yes, I'm Osakabehime the Assasin. Hey, can I go home yet? Oh really.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/e/ee/OsakabehimeSummoning.ogg/revision/latest?cb=20180107032909"
+    },
+    {
+       "id":174,
+       "name":"Semiramis",
+       "title":"Empress of Assyria",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/c/c5/Portrait_Servant_199_1.png/revision/latest/scale-to-width-down/350?cb=20180131114946",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/d/de/Portrait_Servant_199_4.png/revision/latest/scale-to-width-down/350?cb=20180131115115",
+       "dialogue":"Servant, Assassin. Semiramis. Now then... First, prepare a throne. We will talk only after that. If you have none then that cannot be helped, instead you should serve as the chair.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/f/fa/SemiramisSummon.ogg/revision/latest?cb=20180131202206"
+    },
+    {
+       "id":175,
+       "name":"Okada Iz\u014d",
+       "title":"Manslayer Iz\u014d",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/a/ac/Okada_portrait_1.png/revision/latest/scale-to-width-down/350?cb=20180613175748",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/0/0d/Okada_portrait_4.png/revision/latest/scale-to-width-down/350?cb=20180613175750",
+       "dialogue":"I'm Tosa's Okada Iz\u014d. You might know me better as Hitokiri Iz\u014d. What? Assassin...? You misunderstood, my class is 'Hitokiri.'[1]",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/f/f0/OkadaIz%C5%8DSummon.ogg/revision/latest?cb=20180807021838"
+    },
+    {
+       "id":176,
+       "name":"Ushiwakamaru (Assassin)",
+       "title":"Minamoto no Yoshitsune",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/0/0e/AssassinUshi1.png/revision/latest/scale-to-width-down/350?cb=20180809103605",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/3/3c/AssassinUshi4.png/revision/latest/scale-to-width-down/350?cb=20180809103655",
+       "dialogue":"It seems that after changing into a swimsuit I strangely became closer to the epoch when I was training. At the Kurama mount, playing is training, that's what I was taught. Therefore, that's the right path now. My lord, play a lot with Ushiwaka, please!",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/b/b6/SumUshi_Summon.ogg/revision/latest?cb=20190823182301"
+    },
+    {
+       "id":177,
+       "name":"Kama",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/1/14/Kama1.png/revision/latest/scale-to-width-down/350?cb=20190522121552",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/9/90/Kama4.png/revision/latest/scale-to-width-down/350?cb=20190327112525",
+       "dialogue":"Sigh\u2026\u2026  Truth be told, I didn't plan to get in the way so much, but there are various circumstances.  I'm Kama, the god of love.  But I think it's better if you didn't consult me about love, you know?",
+       "audio":""
+    },
+    {
+       "id":178,
+       "name":"Charlotte Corday",
+       "title":"Angel of Assassination",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/7/79/S259Stage1.png/revision/latest/scale-to-width-down/350?cb=20190805123327",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/7/71/S259Stage4.png/revision/latest/scale-to-width-down/350?cb=20190805123337",
+       "dialogue":"I\u2019ve come in response to your summon! Assassin, Charlotte Corday! I\u2019ll do my best, but sorry if I fail!",
+       "audio":""
+    },
+    {
+       "id":179,
+       "name":"Heracles",
+       "title":"The Immortal Great Hero",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/f/f2/Herc1.png/revision/latest/scale-to-width-down/350?cb=20170208165217",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/1/16/Herc4.png/revision/latest/scale-to-width-down/350?cb=20170208165248",
+       "dialogue":"I\u2019ve come in response to your summon! Assassin, Charlotte Corday! I\u2019ll do my best, but sorry if I fail!",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/e/e2/Herasummon.ogg/revision/latest?cb=20160507075753"
+    },
+    {
+       "id":180,
+       "name":"Lancelot",
+       "title":"Knight of the Lake",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/2/2c/Lancelot1.png/revision/latest/scale-to-width-down/350?cb=20170208165850",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/63/Lancelot4.png/revision/latest/scale-to-width-down/350?cb=20170208170019",
+       "dialogue":"Shuhuhuhuhuhuhuhuhu...",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/e/e5/Lancelotsummon.ogg/revision/latest?cb=20160516102546"
+    },
+    {
+       "id":181,
+       "name":"Lu Bu Fengxian",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/d/d2/LuBu1.png/revision/latest/scale-to-width-down/350?cb=20170208170153",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/c/c1/LuBu4.png/revision/latest/scale-to-width-down/350?cb=20170208170246",
+       "dialogue":"Shuhuhuhuhuhuhuhuhu...",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/0/0e/LuBuSummoned.ogg/revision/latest?cb=20170411235047"
+    },
+    {
+       "id":182,
+       "name":"Spartacus",
+       "title":"Gladiator of Thrace",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/b/b6/Spartacusnew1.png/revision/latest/scale-to-width-down/350?cb=20180406090819",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/5/52/Spartacus4.png/revision/latest/scale-to-width-down/350?cb=20170208170635",
+       "dialogue":"I am Berserker Spartacus.Sorry to ask this, but are you a tyrant?",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/a/a1/SpartacusSummon.ogg/revision/latest?cb=20180305173622"
+    },
+    {
+       "id":183,
+       "name":"Sakata Kintoki",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/f/ff/Sakata1.png/revision/latest/scale-to-width-down/350?cb=20170208170802",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/3/39/Sakata4.png/revision/latest/scale-to-width-down/350?cb=20170208171059",
+       "dialogue":"Ohh, Nice to meet you! I am sorry to trouble you for now. Just call me Golden.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/2/2b/KintokiSummoned.ogg/revision/latest?cb=20171203113736"
+    },
+    {
+       "id":184,
+       "name":"Vlad III",
+       "title":"Lord Impaler",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/1/11/Vlad1.png/revision/latest/scale-to-width-down/350?cb=20170208171400",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/e/e0/Vlad4.png/revision/latest/scale-to-width-down/350?cb=20170208171457",
+       "dialogue":"I am here at your request... Are you the Master who shall offer me your blood?",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/b/b3/VladIIISummoning.ogg/revision/latest?cb=20171127215955"
+    },
+    {
+       "id":185,
+       "name":"Asterios",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/a/a6/Asteriosnew1.png/revision/latest/scale-to-width-down/350?cb=20180406083110",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/4/45/Asterios4.png/revision/latest/scale-to-width-down/350?cb=20180630053505",
+       "dialogue":"Whoooo!!",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/e/ec/AsteriosSummoned.ogg/revision/latest?cb=20171212045914"
+    },
+    {
+       "id":186,
+       "name":"Caligula",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/f/f9/Caligulanew1.png/revision/latest/scale-to-width-down/350?cb=20180406083703",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/6f/Caligula4.png/revision/latest/scale-to-width-down/350?cb=20180630051516",
+       "dialogue":"My... Action... Is... My... Destiny...",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/c/c2/CaligulaSummoned.ogg/revision/latest?cb=20180514152230"
+    },
+    {
+       "id":187,
+       "name":"Darius III",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/3/34/Darius1.png/revision/latest/scale-to-width-down/350?cb=20170208175341",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/4/4c/Darius4.png/revision/latest/scale-to-width-down/350?cb=20170208175433",
+       "dialogue":"...",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/e/e7/DariusIIISummoned.ogg/revision/latest?cb=20170618051151"
+    },
+    {
+       "id":188,
+       "name":"Kiyohime",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/d/d2/Kiyohime1.png/revision/latest/scale-to-width-down/350?cb=20170208180109",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/d/d3/Kiyohime4.png/revision/latest/scale-to-width-down/350?cb=20170208180212",
+       "dialogue":"I am Servant Kiyohime. Do I look like a Berserker to you? It is nice to meet you, my Master.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/8/89/Kiyosummon.ogg/revision/latest?cb=20160507102518"
+    },
+    {
+       "id":189,
+       "name":"Eric Bloodaxe",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/8/86/Ericnew1.png/revision/latest/scale-to-width-down/350?cb=20180406083835",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/a/a6/Bloodaxe4.png/revision/latest/scale-to-width-down/350?cb=20180630052308",
+       "dialogue":"Uraaaaaaaaaaaaa!",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/8/88/EricSummoned.ogg/revision/latest?cb=20170801011955"
+    },
+    {
+       "id":190,
+       "name":"Tamamo Cat",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/f/fd/Tamamo01.png/revision/latest/scale-to-width-down/350?cb=20170208180452",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/b/ba/Tamamo04.png/revision/latest/scale-to-width-down/350?cb=20170208180526",
+       "dialogue":"I am one of the Tamamo Nine, the Wild Fox, Tamamo Cat! Nice to meet you, my Master!",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/1/1d/Catsummon.ogg/revision/latest?cb=20160324072948"
+    },
+    {
+       "id":191,
+       "name":"Frankenstein",
+       "title":"Innocent Bride",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/3/32/Frankenstein1.png/revision/latest/scale-to-width-down/350?cb=20151228213043",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/8/89/Frankenstein4.png/revision/latest/scale-to-width-down/350?cb=20151228213045",
+       "dialogue":"...Uhhhhhhhhhh.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/5/5a/Fransummon.ogg/revision/latest?cb=20160325045135"
+    },
+    {
+       "id":192,
+       "name":"Beowulf",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/2/2e/Beowulf1.png/revision/latest/scale-to-width-down/350?cb=20160203163900",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/4/42/Beowulf4.png/revision/latest/scale-to-width-down/350?cb=20160203163902",
+       "dialogue":"Servant, Berserker. True Name's Beowulf. Well then, let's beat some things up, Master. \u2026\u2026Hey, hey, don't back off.",
+       "audio":""
+    },
+    {
+       "id":193,
+       "name":"Nightingale",
+       "title":"Angel of Crimea",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/8/8c/Nightingale1.png/revision/latest/scale-to-width-down/350?cb=20160331034643",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/b/b3/Nightingale4.png/revision/latest/scale-to-width-down/350?cb=20160331035423",
+       "dialogue":"Please rest assured now that I'm here. Let's save everyone's lives. Even if all loves will be sacrificed.",
+       "audio":""
+    },
+    {
+       "id":194,
+       "name":"C\u00fa Chulainn (Alter)",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/8/82/CuAlter1.png/revision/latest/scale-to-width-down/350?cb=20160331035418",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/d/d5/CuAlter4.png/revision/latest/scale-to-width-down/350?cb=20160331035419",
+       "dialogue":"\"I am C\u00fa Chulainn, summoned at your request! ...My color has nothing to do with you.\"",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/6d/CuAlterSummoned.ogg/revision/latest?cb=20171031041130"
+    },
+    {
+       "id":195,
+       "name":"Minamoto no Raik\u014d",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/5/5a/Yorimitsu1.png/revision/latest/scale-to-width-down/350?cb=20170204130936",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/2/2d/Yorimitsu4.png/revision/latest/scale-to-width-down/350?cb=20170204130828",
+       "dialogue":"Hello, my dear Mage. Servant, Saber... Oh? Huh? I am not a Saber... Oh dear. Erm... I am Minamoto-no-Raikou. Although I still have a long way to go, I will be counting on you from now on, okay?",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/e/e5/RaikouSummoned.ogg/revision/latest?cb=20170801231341"
+    },
+    {
+       "id":196,
+       "name":"Ibaraki D\u014dji",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/0/09/Ibaraki1.png/revision/latest/scale-to-width-down/350?cb=20170204131326",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/a/a1/Ibaraki4.png/revision/latest/scale-to-width-down/350?cb=20170204131349",
+       "dialogue":"My name is Ibaraki-Douji, the leader of the oni clan on Mt. Ooe.",
+       "audio":""
+    },
+    {
+       "id":197,
+       "name":"Mysterious Heroine X (Alter)",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/c/ca/MHXAlter1.png/revision/latest/scale-to-width-down/350?cb=20171205180031",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/2/2b/MHXAlter_Stage4.png/revision/latest/scale-to-width-down/350?cb=20171205175947",
+       "dialogue":"Heroine X Alter... I am a Berser... I mean, Saber-class... Yes, Saber, probably... Don't you think this room is rather cold? Can I just hack up that useless heater there?",
+       "audio":""
+    },
+    {
+       "id":198,
+       "name":"Hijikata Toshiz\u014d",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/8/8a/BerserkerHijakataStage1.png/revision/latest/scale-to-width-down/350?cb=20171206160558",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/5/5b/BerserkerHijakataStage4.png/revision/latest/scale-to-width-down/350?cb=20171206160625",
+       "dialogue":"Shinsengumi Vice Commander, Hijikata Toshizo.  My Class? That's irrelevant.  As long as I'm here, this...is...the Shinsengumi.",
+       "audio":""
+    },
+    {
+       "id":199,
+       "name":"Chacha",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/9/96/BerserkerChachaStage1.png/revision/latest/scale-to-width-down/350?cb=20180227175354",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/9/99/BerserkerChachaStage4.png/revision/latest/scale-to-width-down/350?cb=20180227175403",
+       "dialogue":"I am Chacha, the Sun's favorite concubine! I'm a Berserker Servant! Yep, I've given up on my class!",
+       "audio":""
+    },
+    {
+       "id":200,
+       "name":"Penthesilea",
+       "title":"Berserker of El Dorado",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/f/f7/BersekerED1.png/revision/latest/scale-to-width-down/350?cb=20180228115630",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/6f/BersekerED4.png/revision/latest/scale-to-width-down/350?cb=20180228115654",
+       "dialogue":"Berserker of El Dorado... That is what they call me. That should suffice for now.",
+       "audio":""
+    },
+    {
+       "id":201,
+       "name":"Paul Bunyan",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/2/20/PaulBunyan1.png/revision/latest/scale-to-width-down/350?cb=20170802140354",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/0/04/PaulBunyan4.png/revision/latest/scale-to-width-down/350?cb=20170802140429",
+       "dialogue":"Enchant\u00e9... My name is Paul Bunyan. I'm a Berserker Nice to meet  you, Master. I wonder why I'm a girl... Strange, isn't it?",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/c/c2/PaulBunyanSummoned.ogg/revision/latest?cb=20170803202050"
+    },
+    {
+       "id":202,
+       "name":"Oda Nobunaga (Berserker)",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/2/20/OdaBerserker1.png/revision/latest/scale-to-width-down/350?cb=20180228120653",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/0/04/OdaBerserker4.png/revision/latest/scale-to-width-down/350?cb=20180228120717",
+       "dialogue":"Yeeeeeeaaah! Are you all pumped in!? I am the Demon King of the Sixth Heaven of the Beach.. That's right! Nobunaga THE Rock n' Roller! Eh? What part is rockin' you ask? A summer swimsuit means ROCK! Obviously! It's all about feeling, you know? Don't think too hard... Just feel! My Class is Berserker. Rockin' to meetcha!",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/0/0a/Nobu%28Berserker%29SummonVoice.ogg/revision/latest?cb=20190812095654"
+    },
+    {
+       "id":203,
+       "name":"Jeanne d'Arc (Berserker Alter)",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/7/77/BerserkerJalter1-3.png/revision/latest/scale-to-width-down/350?cb=20180809113039",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/68/Jalter_Berserker_Sprite.png/revision/latest/scale-to-width-down/301?cb=20180812061309",
+       "dialogue":"It is only temporary for now. Since I've changed into swimsuit, let's enjoy Hawaii to the fullest, Master... My saint graph was altered and I am now a berserker but, well it's a trivial detail.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/64/Jalter_Berserker_TemporarySummon.ogg/revision/latest?cb=20180815145421"
+    },
+    {
+       "id":204,
+       "name":"Mori Nagayoshi",
+       "title":"Demon Musashi",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/0/00/Mori_Nagayoshi1.png/revision/latest/scale-to-width-down/350?cb=20190704124701",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/9/96/Mori_Nagayoshi4.png/revision/latest/scale-to-width-down/350?cb=20190704124732",
+       "dialogue":"I\u2019m the Oni Musashi, Mori Nagayoshi!  My class was Berserker, right.  If you say something stupid I\u2019ll cut you up immediately! \u2026 Hey hey, relax. I won't do something as cruel as killin' my Master. Well, I\u2019m countin\u2019 on ya, Master!",
+       "audio":""
+    },
+    {
+       "id":205,
+       "name":"Salome",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/e/e3/S260Stage1.png/revision/latest/scale-to-width-down/350?cb=20190805125813",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/2/28/S260Stage4.png/revision/latest/scale-to-width-down/350?cb=20190805125855",
+       "dialogue":"I\u2019m Salome! Herod\u2019s daughter, Salome. You\u2019re Master-san, right? Nice to meet you. \u2026\u2026\u2026\u2026Hey, you, do you like kissing?",
+       "audio":""
+    },
+    {
+       "id":206,
+       "name":"Miyamoto Musashi (Berserker)",
+       "title":"Flower of Tengen",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/8/85/Musashi_Berserker_1.png/revision/latest/scale-to-width-down/350?cb=20190814143846",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/e/e0/Musashi_Berserker_4.png/revision/latest/scale-to-width-down/350?cb=20190814143927",
+       "dialogue":"I did it! Berserker, Musashi Miyamoto, has been summoned here! But really, is it finally my swimsuit debut\u2026\u2026? Fufu, I was interested on it since long ago so I\u2019m really lucky! \tI\u2019ll count on you for this one summer adventure, Master!",
+       "audio":""
+    },
+    {
+       "id":207,
+       "name":"Jeanne d'Arc",
+       "title":"Holy Maiden of Salvation",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/5/56/Jeanne1.png/revision/latest/scale-to-width-down/350?cb=20170208180646",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/8/81/Jeanne4.png/revision/latest/scale-to-width-down/350?cb=20170208180734",
+       "dialogue":"Servant Ruler, Jeanne d'Arc. I'm really glad to meet you!",
+       "audio":""
+    },
+    {
+       "id":208,
+       "name":"Amakusa Shir\u014d",
+       "title":"The One who Sought for an Endless Dream",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/5/5e/Ashirou1.png/revision/latest/scale-to-width-down/350?cb=20160309054321",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/69/Ashirou4.png/revision/latest/scale-to-width-down/350?cb=20160309054322",
+       "dialogue":"Ruler-class Servant. Amakusa Shirou Tokisada. Do I look like someone you know? I am sure it's only a coincidence.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/9/91/Amakusasummon.ogg/revision/latest?cb=20160509155815"
+    },
+    {
+       "id":209,
+       "name":"Martha (Ruler)",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/a/aa/Smartharuler1.png/revision/latest/scale-to-width-down/350?cb=20161017025252",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/0/0e/Smartharuler4.png/revision/latest/scale-to-width-down/350?cb=20180224144304",
+       "dialogue":"Martha has arrived once more. No matter my appearance, I am still me! Without fail, I shall save the world with you.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/7/7c/Martha%28Ruler%29SummonDialogue.ogg/revision/latest?cb=20190808222438"
+    },
+    {
+       "id":210,
+       "name":"Sherlock Holmes",
+       "title":"The One who Illuminates the Truth",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/b/b1/Holmes1.png/revision/latest/scale-to-width-down/350?cb=20180228115820",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/0/06/Holmes4.png/revision/latest/scale-to-width-down/350?cb=20180228115846",
+       "dialogue":"Are introductions necessary? I am a detective.If you were expecting a hero, my apologies...But if you wanted a detective or an investigator, you drew the right card.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/f/f7/SherlockHolmesSummoning.ogg/revision/latest?cb=20171128184327"
+    },
+    {
+       "id":211,
+       "name":"Quetzalcoatl (Samba/Santa)",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/a/a5/QuetzalcoatlSambaStage01.png/revision/latest/scale-to-width-down/350?cb=20181212121553",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/8/81/QuetzalcoatlSambaStage04.png/revision/latest/scale-to-width-down/350?cb=20181212121600",
+       "dialogue":"I misunderstood it a bit, but giving out presents while dancing samba sounds fun? Santa and Samba, this is something doubly good! Leave it to me, Master! In order to retrieve the right Christmas, I'll do my best!",
+       "audio":""
+    },
+    {
+       "id":212,
+       "name":"Astraea",
+       "title":"Luviagelita Edelfelt",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/6d/Ruler_1_art.png/revision/latest/scale-to-width-down/350?cb=20190427132945",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/c/c6/Ruler_4_art.png/revision/latest/scale-to-width-down/350?cb=20190427133041",
+       "dialogue":"I have come in response to your summons. The judgment of heaven, the justice of the stars is present. To all that is good in this world, I am called Astraea. As a master, are you prepared to be measured?",
+       "audio":""
+    },
+    {
+       "id":213,
+       "name":"Edmond Dant\u00e8s",
+       "title":"The Count of Monte Cristo",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/a/ab/Edmond1.png/revision/latest/scale-to-width-down/350?cb=20160316190933",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/c/c4/Edmond4.png/revision/latest/scale-to-width-down/350?cb=20160316190934",
+       "dialogue":"You called me! The reincarnation of vengence itself? Well precisely, I am the grudge of darkness I am Extra Class, Avenger!",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/2/21/DantesSummoned.ogg/revision/latest?cb=20170131220512"
+    },
+    {
+       "id":214,
+       "name":"Jeanne d'Arc (Alter)",
+       "title":"Dragon Witch",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/9/98/JeanneAlter1.png/revision/latest/scale-to-width-down/350?cb=20160411111159",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/2/29/Jeanne_Alter_Berserker_Final.png/revision/latest/scale-to-width-down/350?cb=20180809152307",
+       "dialogue":"Servant, Avenger. Summoned upon your request. ...What's with that look? Come on, here's the contract.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/9/9f/JeanneAlterSummoned.ogg/revision/latest?cb=20170810043627"
+    },
+    {
+       "id":215,
+       "name":"Angra Mainyu",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/a/aa/Angra1.png/revision/latest/scale-to-width-down/350?cb=20161126152050",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/d/d2/Angra4.png/revision/latest/scale-to-width-down/350?cb=20161027105452",
+       "dialogue":"Hey there! The weakest Heroic Spirit Avenger, I responded immediately when I heard your call!",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/5/5d/Angrasummon.ogg/revision/latest?cb=20170410002634"
+    },
+    {
+       "id":216,
+       "name":"Gorgon",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/f/f7/Gorgon1.png/revision/latest/scale-to-width-down/350?cb=20171206160919",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/5/59/Gorgon4.png/revision/latest/scale-to-width-down/350?cb=20171206160944",
+       "dialogue":"...Hmph. Avenger, Gorgon. Use me well. I shall use you well, too. Whose untimely end will be displayed first? It should be something to see.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/e/e4/GorgonSummoned.ogg/revision/latest?cb=20171024225922"
+    },
+    {
+       "id":217,
+       "name":"Hessian Lobo",
+       "title":"Avenger of Shinjuku",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/2/2f/AvengerLoboStage1.png/revision/latest/scale-to-width-down/350?cb=20171206161026",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/a/a9/AvengerLoboStage4.png/revision/latest/scale-to-width-down/350?cb=20171206161056",
+       "dialogue":"\u25a0\u25a0\u25a0\u25a0\u25a0",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/0/09/HessianLoboSummon.ogg/revision/latest?cb=20180226021054"
+    },
+    {
+       "id":218,
+       "name":"Demon King Nobunaga",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/5/58/Demon_King_Nobunaga1.png/revision/latest/scale-to-width-down/350?cb=20190704124754",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/c/c6/Demon_King_Nobunaga4.png/revision/latest/scale-to-width-down/350?cb=20190704124819",
+       "dialogue":"To make me an Avenger\u2026 Uhahaha! What a karmic thing. Very well! Make sure to engrave the Demon King of Sixth Heaven, Nobunaga\u2019s lifestyle in your soul!",
+       "audio":""
+    },
+    {
+       "id":219,
+       "name":"Meltlilith",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/9/9d/Meltlilithfirstascension.png/revision/latest/scale-to-width-down/350?cb=20180227175605",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/d/d8/Meltilith4th.png/revision/latest/scale-to-width-down/350?cb=20180227175630",
+       "dialogue":"I'm the Alter Ego of pleasure, Meltryllis. I'd really rather not, but I suppose I'll form a contract with you. You should be honored, okay?",
+       "audio":""
+    },
+    {
+       "id":220,
+       "name":"Passionlip",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/5/5d/Passionlip1.png/revision/latest/scale-to-width-down/350?cb=20180227175800",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/a/ad/Passionlip4.png/revision/latest/scale-to-width-down/350?cb=20180227175856",
+       "dialogue":"...I'm Passionlip...the Alter Ego of love and hate... Um... I'm sorry if I hurt you...",
+       "audio":""
+    },
+    {
+       "id":221,
+       "name":"Sessh\u014din Kiara",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/2/29/Kiarastage01.png/revision/latest/scale-to-width-down/350?cb=20171206161500",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/7/75/Kiarastage04.png/revision/latest/scale-to-width-down/350?cb=20171206161544",
+       "dialogue":"Alter Ego, Sessyoin Kiara. I have come to answer the voices calling for salvation. But...hehe... I wonder about the sort of person who would summon a woman like me. I am the Devilish Bodhisattva who savors all living creatures, sentient or not. You have now choice now but to stay with me until the very end.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/5/5b/KiaraSummoned.ogg/revision/latest?cb=20170709043347"
+    },
+    {
+       "id":222,
+       "name":"Mecha Eli-chan",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/0/0d/Portrait_Servant_190_1.png/revision/latest/scale-to-width-down/350?cb=20171025153323",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/5/5b/Portrait_Servant_190_4.png/revision/latest/scale-to-width-down/350?cb=20171027183119",
+       "dialogue":"I am Magus Aegis Elizabeth Channel. That is long, so Mecha Eli-chan is acceptable....Elizabeth is constantly presenting issues for you, but this time, I am the one imposing. Particularly, I have accepted you as my pilot. Please, do not misuse me.",
+       "audio":""
+    },
+    {
+       "id":223,
+       "name":"Okita S\u014dji (Alter)",
+       "title":"Majin Saber",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/2/21/OkitaSoujiAlterStage01.png/revision/latest/scale-to-width-down/350?cb=20180617153354",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/6/67/OkitaSoujiAlterStage04.png/revision/latest/scale-to-width-down/350?cb=20180617153613",
+       "dialogue":"My name is Majin Okita Souji. I have manifested in response to your summons. Until this body's Saint Graph is smashed apart..., let's fight together.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/d/d9/OkitaS%C5%8DjiAlterSummon.ogg/revision/latest?cb=20180628162333"
+    },
+    {
+       "id":224,
+       "name":"Kingprotea",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/a/a0/KingproteaStage1.png/revision/latest/scale-to-width-down/350?cb=20190227130024",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/5/5f/KingproteaStage4.png/revision/latest/scale-to-width-down/350?cb=20190227140045",
+       "dialogue":"Master...Master...Alter Ego, Kingprotea...has answered your summons... Am I big? Or small...?",
+       "audio":""
+    },
+    {
+       "id":225,
+       "name":"Abigail Williams",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/d/d7/Portrait_Servant_195_1.png/revision/latest/scale-to-width-down/350?cb=20171207114027",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/5/59/Portrait_Servant_195_4.png/revision/latest/scale-to-width-down/350?cb=20171207114235",
+       "dialogue":"Hello! I\u2019m Abigail--- Abigail Williams. I\u2019m from the, Fo...reigner...class. Are you the Master? If it\u2019s okay with you, please call me Abby. I believe we\u2019ll quickly become friends.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/e/e9/AbigailWilliamsSummoned.ogg/revision/latest?cb=20171206163351"
+    },
+    {
+       "id":226,
+       "name":"Katsushika Hokusai",
+       "title":"Katsushika Oui",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/1/1f/Portrait_Servant_198_1.png/revision/latest/scale-to-width-down/350?cb=20171231190645",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/c/c6/Portrait_Servant_198_4.png/revision/latest/scale-to-width-down/350?cb=20171231190746",
+       "dialogue":"Katsushika Hokusai. A humble painter. Are you the Master? Oh, a fairly picturesque personage. Well, I'll paint even without permission.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/c/cb/KatsushikaHokusaiSummon.ogg/revision/latest?cb=20180225215338"
+    },
+    {
+       "id":227,
+       "name":"Mysterious Heroine XX",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/1/1a/MHXX1.png/revision/latest/scale-to-width-down/350?cb=20180816151612",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/8/88/MHXX4.png/revision/latest/scale-to-width-down/350?cb=20180816151647",
+       "dialogue":"Katsushika Hokusai. A humble painter. Are you the Master? Oh, a fairly picturesque personage. Well, I'll paint even without permission.",
+       "audio":""
+    },
+    {
+       "id":228,
+       "name":"B B",
+       "title":"Mysterious Black Magus",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/c/ce/BBstage01.png/revision/latest/scale-to-width-down/350?cb=20180227180002",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/f/f1/BBstage04.png/revision/latest/scale-to-width-down/350?cb=20180227180011",
+       "dialogue":"No world or barrier can hold me! I have finally come to the famous Chaldea! The lovely butterfly of the moon...BB, the Moon Cancer, has been summoned! Well, this is just a temporary arrangement, but take good care of me, Seeenpaaai<3",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/9/96/BBSummon1Voice.ogg/revision/latest?cb=20190816195116"
+    },
+    {
+       "id":229,
+       "name":"B B (Summer)",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/5/51/BBSummer1.png/revision/latest/scale-to-width-down/350?cb=20180816151158",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/8/81/BBSummer4.png/revision/latest/scale-to-width-down/350?cb=20180816151237",
+       "dialogue":"To think that I would be summoned, so a human who doesn't know their place exists too, huh. By any chance, are you a little pain in the neck who wishes for the life of a piggy? Just kidding, the reward-like talk ends here. The Moon Cancer-class BB has come to grant your wish\u2606. Please, resign yourself to becoming my toy, okay, Se\u30fbn\u30fbpa\u30fbi?",
+       "audio":""
+    },
+    {
+       "id":230,
+       "name":"Mashu Kyrielight",
+       "title":"",
+       "firstImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/b/b0/Shielder1.png/revision/latest/scale-to-width-down/350?cb=20170206150321",
+       "finalImage":"https://vignette.wikia.nocookie.net/fategrandorder/images/c/c3/Shielder4.png/revision/latest/scale-to-width-down/350?cb=20170206150355",
+       "dialogue":"I'm still just an immature Servant, but I'll do what I can to help you.",
+       "audio":"https://vignette.wikia.nocookie.net/fategrandorder/images/0/0d/Mashu_Dialogue2.ogg/revision/latest?cb=20170303025733"
+    }
+ ]
