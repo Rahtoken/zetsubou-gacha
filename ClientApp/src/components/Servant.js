@@ -1,15 +1,6 @@
 import React from "react"
-class ServantData{
-    constructor(data){
-        this.id=data.id
-        this.name=data.name
-        this.title=data.title
-        this.firstAscensionImage=data.firstAscensionImage
-        this.finalAscensionImage=data.finalAscensionImage
-        this.dialogue=data.dialogue
-        this.audio=data.audio
-    }
-}
+import ServantData from "./ServantData.js"
+
 class Servant extends React.Component{
     constructor(){
         super()
@@ -55,7 +46,6 @@ class Servant extends React.Component{
                     <br></br>
                     <input type="Button" value="Transform!" onClick={this.handleOnClick}/>
                     <h3>{this.state.ServantData.dialogue}</h3>
-                    {/* <p>Summary: {this.state.summary}</p>         */}
                 </div>
                 }
             </div>
