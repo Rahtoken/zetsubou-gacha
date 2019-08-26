@@ -1,15 +1,20 @@
 import React from "react"
-import ServantList from "../ServantList.js"
+class ServantData{
+    constructor(data){
+        this.id=data.id
+        this.name=data.name
+        this.title=data.title
+        this.firstAscensionImage=data.firstAscensionImage
+        this.finalAscensionImage=data.finalAscensionImage
+        this.dialogue=data.dialogue
+        this.audio=data.audio
+    }
+}
 class Servant extends React.Component{
     constructor(){
         super()
         this.state={
-            name : "",
-            title : "",
-            firstAscensionImage : "",
-            finalAscensionImage : "",
-            dialogue : "",
-            audio : "",
+            ServantData:{},
             transform : true,
             isLoading : true,
         }
@@ -18,14 +23,16 @@ class Servant extends React.Component{
         this.handleOnClick = this.handleOnClick.bind(this)
     }
 
-    async componentDidMount() {
-        await fetch(this.url+this.id)
+    componentDidMount() {
+        fetch(this.url+this.id)
           .then(response => response.json())
-          .then(data => this.setState({
-              ...data,
+          .then(data => {
+              this.setState({
+              ServantData:new ServantData(data),
               isLoading : false
-            }));
-        }
+            })
+        });
+    }
 
     handleOnClick(){
         this.setState(() => {
@@ -41,13 +48,13 @@ class Servant extends React.Component{
                 {this.state.isLoading ?
                     <h1>Loading...</h1> :
                 <div>
-                    <h2>Name: {this.state.name}</h2> 
-                    <h3>ID: {this.state.id}</h3>
-                    { this.state.title==="" ?  null : <h3> Title: {this.state.title} </h3>}
-                    <img src={this.state.transform ? this.state.firstAscensionImage : this.state.finalAscensionImage} alt="Image1"></img>
+                    <h2>Name: {this.state.ServantData.name}</h2> 
+                    <h3>ID: {this.state.ServantData.id}</h3>
+                    { this.state.ServantData.title==="" ?  null : <h3> Title: {this.state.ServantData.title} </h3>}
+                    <img src={this.state.transform ? this.state.ServantData.firstAscensionImage : this.state.ServantData.finalAscensionImage} alt="Image1"></img>
                     <br></br>
                     <input type="Button" value="Transform!" onClick={this.handleOnClick}/>
-                    <h3>{this.state.dialogue}</h3>
+                    <h3>{this.state.ServantData.dialogue}</h3>
                     {/* <p>Summary: {this.state.summary}</p>         */}
                 </div>
                 }
