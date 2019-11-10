@@ -1,6 +1,6 @@
 # A project to help us learn React and ASP.NET #
 
-[![Build Status](https://dev.azure.com/16241A05C2/ZetsubouGacha/_apis/build/status/Rahtoken.zetsubou-gacha?branchName=master)](https://dev.azure.com/16241A05C2/ZetsubouGacha/_build/latest?definitionId=2&branchName=master)
+[![Build Status](https://dev.azure.com/16241A05C2/ZetsubouGacha/_apis/build/status/Rahtoken.zetsubou-gacha%20(1)?branchName=master)](https://dev.azure.com/16241A05C2/ZetsubouGacha/_build/latest?definitionId=3&branchName=master)
 
 ### Objective ###
 ----------
