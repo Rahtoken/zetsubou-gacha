@@ -234,7 +234,3 @@ _Pvt_Extensions
 # VSCode and VS Artifacts
 *.vscode/
 *.sln
-
-# package-lock
-package-lock.json
-ClientApp/package-lock.json
