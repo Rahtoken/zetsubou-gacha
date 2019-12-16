@@ -1,7 +1,8 @@
 # Run once, results in data duplication otherwise.
-from pymongo import MongoClient
-import os
 import json
+import os
+
+from pymongo import MongoClient
 
 # Establishing database connection.
 client = MongoClient()
