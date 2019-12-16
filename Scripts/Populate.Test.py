@@ -14,7 +14,7 @@ servant_data = []
 with open(os.path.join(os.path.dirname(__file__), data_path), 'r') as data:
     servant_data = json.load(data)
 
-#Dropping existing data
+# Dropping existing data
 servants_collection.drop()
 
 # Pushing to the database.
