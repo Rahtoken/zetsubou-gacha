@@ -35,7 +35,7 @@ namespace ZetsubouGacha
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env, RedisService redisService)
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             if (env.EnvironmentName == "Development")
             {
@@ -58,7 +58,6 @@ namespace ZetsubouGacha
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 
-            //redisService.Connect();
 
             app.UseRouting();
             app.UseEndpoints(endpoints =>
