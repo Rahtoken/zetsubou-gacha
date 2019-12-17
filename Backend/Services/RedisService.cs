@@ -1,4 +1,8 @@
-﻿using StackExchange.Redis;
+﻿using System.IO;
+using System.Text;
+using System.Text.Json;
+using System.Threading.Tasks;
+using StackExchange.Redis;
 using ZetsubouGacha.Settings;
 
 namespace ZetsubouGacha.Services
@@ -28,11 +32,22 @@ namespace ZetsubouGacha.Services
             }
         }
 
-        //public async Task<(bool success, Servant servant)> TryGetServantCachedAsync(int servantId)
-        //{
-        //    var db = _redis.GetDatabase();
-        //    string a = db.StringSet(servantId, JsonSerializer.Ser)
-        //    //var cachedSerant = await db.StringGetAsync(servantId.ToString());
-        //}
+        public async Task PutAsync(string key, string value)
+        {
+            var db = _redis.GetDatabase();
+            await db.StringSetAsync(key, value);
+        }
+
+        public async Task<(bool success, string result)> GetAsync(string key)
+        {
+            var db = _redis.GetDatabase();
+            var result = await db.StringGetAsync(key);
+            return (result.HasValue, result);
+        }
+
+        public static string Serialize<T>(T obj) => JsonSerializer.Serialize(obj);
+
+        public static T Deserialize<T>(string serializedOject) => JsonSerializer.Deserialize<T>(serializedOject);
+
     }
 }

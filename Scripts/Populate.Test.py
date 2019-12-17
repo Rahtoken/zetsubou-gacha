@@ -6,7 +6,7 @@ from pymongo import MongoClient
 
 # Establishing database connection.
 client = MongoClient()
-db = client["ZetsubouGacha"]
+db = client["ZetsubouTests"]
 servants_collection = db["Servants"]
 
 # Loading the JSON data.
