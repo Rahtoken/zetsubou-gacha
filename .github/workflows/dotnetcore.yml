@@ -16,12 +16,5 @@ jobs:
       if: matrix.os == 'macOS-latest' || matrix.os == 'ubuntu-latest'
     - uses: actions/checkout@v1
     - name: Build with dotnet
-      run: |
-        cd Backend/
-        dotnet build -c Release
+      run: dotnet build -c Release
     - uses: actions/checkout@v1
-    - name: Test with dotnet
-      run: |
-        cd Test/Backend.Tests/
-        dotnet build -c Release
-        dotnet vstest ./bin/Release/netcoreapp3.0/Backend.Tests.dll
