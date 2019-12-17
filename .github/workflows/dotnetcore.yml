@@ -14,6 +14,8 @@ jobs:
       with:
         dotnet-version: 3.0.100
       if: matrix.os == 'macOS-latest' || matrix.os == 'ubuntu-latest'
+    - name: Check files
+      run: ls
     - name: Build with dotnet
       run: |
         ls
