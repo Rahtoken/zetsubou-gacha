@@ -15,6 +15,6 @@ jobs:
         dotnet-version: 3.0.100
       if: matrix.os == 'macOS-latest' || matrix.os == 'ubuntu-latest'
     - name: Build with dotnet
-      run: dotnet build --configuration Release
+      run: dotnet build ./zetsubou-gacha.sln --configuration Release
     - name: Test with dotnet
-      run: dotnet test --configuration Release
+      run: dotnet test ./zetsubou-gacha.sln --configuration Release
