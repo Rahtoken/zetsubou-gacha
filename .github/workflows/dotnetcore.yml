@@ -14,11 +14,12 @@ jobs:
       with:
         dotnet-version: 3.0.100
       if: matrix.os == 'macOS-latest' || matrix.os == 'ubuntu-latest'
-    - name: Check files
-      run: ls
     - name: Build with dotnet
       run: |
-        ls
-        dotnet build ./zetsubou-gacha.sln --configuration Release
+        cd Backend/
+        dotnet build -c Release
     - name: Test with dotnet
-      run: dotnet test ./zetsubou-gacha.sln --configuration Release
+      run: |
+        cd Test/Backend.Tests/
+        dotnet build -c Release
+        dotnet vstest ./bin/Release/netcoreapp3.0/Backend.Tests.dll
