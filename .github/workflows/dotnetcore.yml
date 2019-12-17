@@ -14,8 +14,6 @@ jobs:
       with:
         dotnet-version: 3.0.100
       if: matrix.os == 'macOS-latest' || matrix.os == 'ubuntu-latest'
-    - uses: actions/checkout@v1
-    - name: Build with dotnet
     - name: Build with dotnet
       run: dotnet build --configuration Release
     - name: Test with dotnet
