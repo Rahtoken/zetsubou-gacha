@@ -14,10 +14,12 @@ jobs:
       with:
         dotnet-version: 3.0.100
       if: matrix.os == 'macOS-latest' || matrix.os == 'ubuntu-latest'
+    - uses: actions/checkout@v1
     - name: Build with dotnet
       run: |
         cd Backend/
         dotnet build -c Release
+    - uses: actions/checkout@v1
     - name: Test with dotnet
       run: |
         cd Test/Backend.Tests/
