@@ -26,31 +26,22 @@ namespace ZetsubouGacha
             services.AddControllers();
             services.Configure<DatabaseSettings>(
                 Configuration.GetSection(nameof(DatabaseSettings)));
-<<<<<<< HEAD
             
             services.AddSingleton(
                 sp => sp.GetRequiredService<IOptions<DatabaseSettings>>().Value);
 
             services.AddSingleton<IServantRepository, ServantService>();
-=======
-            services.Configure<RedisSettings>(Configuration.GetSection(nameof(RedisSettings)));
             
             services.AddSingleton(
                 sp => sp.GetRequiredService<IOptions<DatabaseSettings>>().Value);
-            services.AddSingleton(sp => sp.GetRequiredService<IOptions<RedisSettings>>().Value);
 
             services.AddSingleton<IServantRepository, ServantService>();
-            services.AddSingleton<RedisService>();
->>>>>>> master
+
         }
 
         // This method gets called by the runtime. Use this method to configure the
         // HTTP request pipeline.
-<<<<<<< HEAD
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
-=======
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env, RedisService redisService)
->>>>>>> master
         {
             if (env.EnvironmentName == "Development")
             {
@@ -72,10 +63,6 @@ namespace ZetsubouGacha
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 
-<<<<<<< HEAD
-=======
-            redisService.Connect();
->>>>>>> master
             app.UseRouting();
             app.UseEndpoints(endpoints => { endpoints.MapControllers(); });
         }
