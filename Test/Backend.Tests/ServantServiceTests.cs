@@ -9,7 +9,12 @@ namespace Backend.Tests
     public class ServantServiceTests
     {
         [TestMethod]
+<<<<<<< HEAD
         public void AllServantsTest()
+=======
+        public void
+        AllServantsTest()
+>>>>>>> master
         {
             var settings = new DatabaseSettings()
             {
@@ -24,7 +29,12 @@ namespace Backend.Tests
         }
 
         [TestMethod]
+<<<<<<< HEAD
         public void ServantByIdTest()
+=======
+        public void
+        ServantByIdTest()
+>>>>>>> master
         {
             int id = 69;
             var settings = new DatabaseSettings()
