@@ -14,12 +14,9 @@ namespace ZetsubouGacha.Controllers
     {
         private readonly IServantRepository servantRepository;
 
-        private readonly RedisService redis;
-
-        public ServantController(IServantRepository servantRepository, RedisService redis)
+        public ServantController(IServantRepository servantRepository)
         {
             this.servantRepository = servantRepository;
-            this.redis = redis;
         }
 
         [HttpGet]
@@ -35,17 +32,7 @@ namespace ZetsubouGacha.Controllers
         [HttpGet("{id}")]
         public async Task<ActionResult<Servant>> ServantById(int id)
         {
-            var cachedResult = await redis.GetAsync(id.ToString());
-            Servant servant = cachedResult.success switch
-            {
-                true => RedisService.Deserialize<Servant>(cachedResult.result),
-                false => await servantRepository.GetServantByIdAsync(id)
-            };
-            if (!cachedResult.success)
-            {
-                var toCache = RedisService.Serialize(servant);
-                await redis.PutAsync(id.ToString(), toCache);
-            }
+            Servant servant = await servantRepository.GetServantByIdAsync(id);
             if (servant == null)
             {
                 return NotFound();
