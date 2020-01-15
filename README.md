@@ -8,7 +8,6 @@ _To learn full stack development by developing a gacha clone._
 - React for the frontend client.
 - MongoDB as the database.
 - Docker for deployment.
-- TODO: Integrate Redis
 
 ## Rolling the Gacha
 
@@ -18,8 +17,8 @@ Docker is highly recommended to run/test the project.
 
 1. Go to the `.\Test\Backend.Tests\` directory.
 2. Ensure that an instance of MongoDB is running.
-3. `dotnet build`
-4. `dotnet vstest .\bin\Debug\netcoreapp3.0\Backend.Tests.dll`
+3. `dotnet build -c Release`
+4. `dotnet vstest .\bin\Release\netcoreapp3.0\Backend.Tests.dll`
 
 ### Run the Backend API
 
@@ -38,7 +37,7 @@ Docker is highly recommended to run/test the project.
 To speed up things, dummy data has been provided in `TestData.json`.
 
 1. Go to `.\Scripts\` directory.
-2. Ensure than an instance of MongoDB is running.
+2. Ensure that an instance of MongoDB is running.
 3. `pip install pymongo`
 4. `python Populate.py`
 5. `python Populate.Test.py`
@@ -48,5 +47,5 @@ To speed up things, dummy data has been provided in `TestData.json`.
 The easiest way is using Docker.
 
 1. `docker pull mongo`
-2. `docker volume create zbd`
-3. `docker run --name zbd -p 27017:27017 -v zbdata:/data/db mongo`
+2. `docker volume create zbdata`
+3. `docker run --name zbmongo -p 27017:27017 -v zbdata:/data/db mongo`
