@@ -1,13 +1,8 @@
 import React, { Component } from 'react';
-import styled from 'styled-components';
+import { Segment, Button } from 'semantic-ui-react';
 
 import Summon from './components/Summon';
 import Servant from './components/Servant';
-
-const Container = styled.div`
-    flex: 1 1 100%;
-    justify-content;
-`;
 
 class GachaContainer extends Component {
     state = {
@@ -32,19 +27,17 @@ class GachaContainer extends Component {
     }
     render() {
         return (
-            <div>
-                <Container>
-                    {!this.state.summoned ?
-                        <Summon summon={this.summonServant} /> :
-                        this.state.loading ?
-                            <h3>Loading...</h3> :
-                            <div>
+            <Segment padded>
+                {!this.state.summoned ?
+                    <Summon summon={this.summonServant} /> :
+                    this.state.loading ?
+                        <h3>Loading...</h3> :
+                        <div>
                             <Servant data={this.state.servant} />
-                            <button onClick={() => this.showServant()}>Roll again!</button>
-                            </div>
-                    }
-                </Container>
-            </div>
+                            <Button onClick={() => this.showServant()}>Roll again!</Button>
+                        </div>
+                }
+            </Segment>
         );
     }
 }
