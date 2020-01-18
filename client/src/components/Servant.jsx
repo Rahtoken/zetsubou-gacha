@@ -1,50 +1,58 @@
-import React, { useState } from "react";
-import { Card, Image, Button, Transition } from "semantic-ui-react";
-const Servant = props => {
-  const [image, changeImage] = useState(0);
+import React, { useState, useEffect } from "react";
+import { Card, Button, Loader, Dimmer } from "semantic-ui-react";
+import ServantImage from "./ServantImage";
+import axios from "axios";
+const Servant = () => {
+  const [imageIndex, changeImage] = useState(0);
   const [visible, changeVisibilty] = useState(true);
-  const images = [
-    props.data.firstAscensionImage,
-    props.data.finalAscensionImage
-  ];
+  const [data, setData] = useState({});
+  const [loading, setLoading] = useState(true);
+
+  useEffect(async () => getServant(), []);
+
+  const getServant = async () => {
+    let servantId = Math.floor(Math.random() * 230);
+    const result = await axios(
+      `https://localhost:5001/api/Servant/${servantId}`
+    );
+    setData(result.data);
+    const timer = setTimeout(() => {
+      setLoading(false);
+    }, 200);
+  };
+
+  const images = [data.firstAscensionImage, data.finalAscensionImage];
 
   return (
     <>
-      <Card raised>
-        <Transition
-          visible={visible}
-          animation="horizontal flip"
-          duration={200}
-        >
-          {image % 2 === 0 ? (
-            <Image src={images[image]} wrapped ui={false} />
-          ) : (
-            <></>
-          )}
-        </Transition>
+      <Dimmer.Dimmable dimmed={loading}>
+        <Dimmer inverted active={loading}>
+          <Loader inverted>Loading...</Loader>
+        </Dimmer>
 
-        <Transition
-          visible={!visible}
-          animation="horizontal flip"
-          duration={200}
-        >
-          {image % 2 ? <Image src={images[image]} wrapped ui={false} /> : <></>}
-        </Transition>
+        <Card raised>
+          <ServantImage
+            imageIndex={imageIndex}
+            images={images}
+            visible={visible}
+          ></ServantImage>
+          <Card.Content>
+            <Card.Header>{data.name}</Card.Header>
+            <Card.Meta>{data.title}</Card.Meta>
+            <Card.Description>{data.dialogue}</Card.Description>
+          </Card.Content>
 
-        <Card.Content>
-          <Card.Header>{props.data.name}</Card.Header>
-          <Card.Meta>{props.data.title}</Card.Meta>
-          <Card.Description>{props.data.dialogue}</Card.Description>
-        </Card.Content>
-      </Card>
-      <Button
-        onClick={() => {
-          changeImage((image + 1) % 2);
-          changeVisibilty(visible ^ true);
-        }}
-      >
-        Transform!
-      </Button>
+          <Button
+            onClick={() => {
+              changeImage((imageIndex + 1) % 2);
+              changeVisibilty(visible ^ true);
+            }}
+          >
+            Transform!
+          </Button>
+          <Button onClick={() => getServant()}>Roll again!</Button>
+        </Card>
+      </Dimmer.Dimmable>
     </>
   );
 };

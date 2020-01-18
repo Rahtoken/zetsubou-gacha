@@ -1,45 +1,40 @@
-import React, { Component } from 'react';
-import { Segment, Button } from 'semantic-ui-react';
-
-import Summon from './components/Summon';
-import Servant from './components/Servant';
+import React, { Component } from "react";
+import { Segment, CardGroup } from "semantic-ui-react";
+import Summon from "./components/Summon";
+import Servant from "./components/Servant";
 
 class GachaContainer extends Component {
-    state = {
-        summoned: false,
-        loading: false,
-        servant: {}
-    };
+  state = {
+    summoned: false,
+    loading: false,
+    servant: {},
+    number: 0
+  };
 
-    summonServant = () => {
-        const newSummon = !this.state.summoned;
-        this.setState({ summoned: newSummon, loading: true }, () => this.showServant());
-    }
+  summonServant = number => {
+    const newSummon = !this.state.summoned;
+    this.setState({
+      summoned: newSummon,
+      loading: false,
+      number: parseInt(number)
+    });
+  };
 
-    showServant = () => {
-        let servantId = Math.floor(Math.random() * 230);
-        let requestUrl = `https://localhost:5001/api/Servant/${servantId}`;
-        fetch(requestUrl)
-            .then(response => response.json())
-            .then(data => {
-                this.setState({ servant: data, loading: false });
-            });
-    }
-    render() {
-        return (
-            <Segment padded>
-                {!this.state.summoned ?
-                    <Summon summon={this.summonServant} /> :
-                    this.state.loading ?
-                        <h3>Loading...</h3> :
-                        <div>
-                            <Servant data={this.state.servant} />
-                            <Button onClick={() => this.showServant()}>Roll again!</Button>
-                        </div>
-                }
-            </Segment>
-        );
-    }
+  render() {
+    var items = [];
+    for (var i = 0; i < this.state.number; i++) items.push(<Servant />);
+    return (
+      <Segment padded>
+        {!this.state.summoned ? (
+          <Summon summon={this.summonServant} />
+        ) : this.state.loading ? (
+          <h3>Loading...</h3>
+        ) : (
+          <CardGroup>{items}</CardGroup>
+        )}
+      </Segment>
+    );
+  }
 }
 
 export default GachaContainer;
