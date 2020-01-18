@@ -22,7 +22,7 @@ class GachaContainer extends Component {
 
   render() {
     var items = [];
-    for (var i = 0; i < this.state.number; i++) items.push(<Servant />);
+    for (var i = 0; i < this.state.number; i++) items.push(<Servant key={i} />);
     return (
       <Segment padded>
         {!this.state.summoned ? (
@@ -30,7 +30,7 @@ class GachaContainer extends Component {
         ) : this.state.loading ? (
           <h3>Loading...</h3>
         ) : (
-          <CardGroup>{items}</CardGroup>
+          <CardGroup itemsPerRow="5">{items}</CardGroup>
         )}
       </Segment>
     );
