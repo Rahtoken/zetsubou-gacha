@@ -51,7 +51,14 @@ const Servant = () => {
       >
         Transform!
       </Button>
-      <Button onClick={() => setReroll(reroll + 1)}>Roll again!</Button>
+      <Button
+        onClick={() => {
+          setLoading(true);
+          setReroll(reroll + 1);
+        }}
+      >
+        Roll again!
+      </Button>
     </Dimmer.Dimmable>
   );
 };
