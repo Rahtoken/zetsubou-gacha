@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import { Image, Transition } from "semantic-ui-react";
 const ServantImage = props => {
   return (

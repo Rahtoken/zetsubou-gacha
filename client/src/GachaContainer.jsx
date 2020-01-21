@@ -30,7 +30,7 @@ class GachaContainer extends Component {
         ) : this.state.loading ? (
           <h3>Loading...</h3>
         ) : (
-          <CardGroup itemsPerRow="5">{items}</CardGroup>
+          <CardGroup>{items}</CardGroup>
         )}
       </Segment>
     );

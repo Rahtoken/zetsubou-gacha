@@ -1,5 +1,12 @@
 import React, { useState, useEffect } from "react";
-import { Card, Button, Loader, Dimmer } from "semantic-ui-react";
+import {
+  Image,
+  Card,
+  Button,
+  Loader,
+  Dimmer,
+  Placeholder
+} from "semantic-ui-react";
 import ServantImage from "./ServantImage";
 import axios from "axios";
 const Servant = () => {
@@ -28,19 +35,38 @@ const Servant = () => {
 
   return (
     <Dimmer.Dimmable as={Card} dimmed={loading}>
-      <Dimmer inverted active={loading}>
+      {/* <Dimmer inverted active={loading}>
         <Loader inverted>Loading...</Loader>
-      </Dimmer>
-
-      <ServantImage
-        imageIndex={imageIndex}
-        images={images}
-        visible={visible}
-      ></ServantImage>
+      </Dimmer> */}
+      {loading ? (
+        <Placeholder>
+          <Placeholder.Image rectangular />
+        </Placeholder>
+      ) : (
+        <ServantImage
+          imageIndex={imageIndex}
+          images={images}
+          visible={visible}
+        ></ServantImage>
+      )}
       <Card.Content>
-        <Card.Header>{data.name}</Card.Header>
-        <Card.Meta>{data.title}</Card.Meta>
-        <Card.Description>{data.dialogue}</Card.Description>
+        {loading ? (
+          <Placeholder>
+            <Placeholder.Header>
+              <Placeholder.Line length="short" />
+              <Placeholder.Line length="medium" />
+            </Placeholder.Header>
+            <Placeholder.Paragraph>
+              <Placeholder.Line length="long" />
+            </Placeholder.Paragraph>
+          </Placeholder>
+        ) : (
+          <>
+            <Card.Header>{data.name}</Card.Header>
+            <Card.Meta>{data.title}</Card.Meta>
+            <Card.Description>{data.dialogue}</Card.Description>
+          </>
+        )}
       </Card.Content>
 
       <Button
