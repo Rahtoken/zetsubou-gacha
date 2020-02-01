@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace ZetsubouGacha.Models
+namespace ZetsubouGacha.Servants.Models
 {
     public interface IServantRepository
     {

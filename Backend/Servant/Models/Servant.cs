@@ -1,7 +1,7 @@
 using MongoDB.Bson;
 using MongoDB.Bson.Serialization.Attributes;
 
-namespace ZetsubouGacha.Models
+namespace ZetsubouGacha.Servants.Models
 {
     public class Servant
     {

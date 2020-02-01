@@ -1,10 +1,10 @@
 ﻿using MongoDB.Driver;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using ZetsubouGacha.Models;
-using ZetsubouGacha.Settings;
+using ZetsubouGacha.Servants.Models;
+using ZetsubouGacha.Servants.Settings;
 
-namespace ZetsubouGacha.Services
+namespace ZetsubouGacha.Servants.Services
 {
     public class ServantService : IServantRepository
     {

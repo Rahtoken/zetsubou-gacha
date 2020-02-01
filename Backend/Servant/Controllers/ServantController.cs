@@ -3,10 +3,10 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using ZetsubouGacha.Models;
-using ZetsubouGacha.Services;
+using ZetsubouGacha.Servants.Models;
+using ZetsubouGacha.Servants.Services;
 
-namespace ZetsubouGacha.Controllers
+namespace ZetsubouGacha.Servants.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

@@ -3,9 +3,9 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Options;
-using ZetsubouGacha.Models;
-using ZetsubouGacha.Services;
-using ZetsubouGacha.Settings;
+using ZetsubouGacha.Servants.Models;
+using ZetsubouGacha.Servants.Services;
+using ZetsubouGacha.Servants.Settings;
 
 namespace ZetsubouGacha
 {
