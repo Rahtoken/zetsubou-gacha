@@ -18,3 +18,6 @@ jobs:
     - name: Build with dotnet
       run: dotnet build -c Release
     - uses: actions/checkout@v1
+    - name: Test with dotnet
+      run: dotnet test
+    - uses: actions/checkout@v1
