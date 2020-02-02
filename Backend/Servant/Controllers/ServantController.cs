@@ -14,9 +14,9 @@ namespace ZetsubouGacha.Servants.Controllers
     {
         private readonly IServantRepository servantRepository;
 
-        public ServantController(IServantRepository servantRepository)
+        public ServantController(IDbContext dbContext)
         {
-            this.servantRepository = servantRepository;
+            this.servantRepository = dbContext.Servants;
         }
 
         [HttpGet]
