@@ -6,14 +6,13 @@ using ZetsubouGacha.Servants.Settings;
 
 namespace ZetsubouGacha.Servants.Services
 {
-    public class ServantService : IServantRepository
+    public class ServantRepository : IServantRepository
     {
-        private readonly IMongoCollection<Servant> _servants;
-        public ServantService(DatabaseSettings settings)
+        private readonly IMongoCollection<Servant> servants;
+     
+        public ServantRepository(IMongoCollection<Servant> servantsCollection)
         {
-            var client = new MongoClient(settings.ConnectionString);
-            var database = client.GetDatabase(settings.Database);
-            _servants = database.GetCollection<Servant>(settings.ServantsCollection);
+            servants = servantsCollection;
         }
 
         public async Task<IEnumerable<Servant>> GetAllServantsAsync(int limit)
@@ -22,13 +21,13 @@ namespace ZetsubouGacha.Servants.Services
             {
                 Limit = limit
             };
-            using var findResult = await _servants.FindAsync(servant => true, findOptions);
+            using var findResult = await servants.FindAsync(servant => true, findOptions);
             return await findResult.ToListAsync();
         }
 
         public async Task<Servant> GetServantByIdAsync(int id)
         {
-            using var findResult = await _servants.FindAsync(servant => servant.Id == id);
+            using var findResult = await servants.FindAsync(servant => servant.Id == id);
             return await findResult.FirstOrDefaultAsync();
         }
     }

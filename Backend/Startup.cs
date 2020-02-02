@@ -26,17 +26,30 @@ namespace ZetsubouGacha
             services.AddControllers();
             services.Configure<DatabaseSettings>(
                 Configuration.GetSection(nameof(DatabaseSettings)));
-            
             services.AddSingleton(
                 sp => sp.GetRequiredService<IOptions<DatabaseSettings>>().Value);
 
-            services.AddSingleton<IServantRepository, ServantService>();
-            
-            services.AddSingleton(
-                sp => sp.GetRequiredService<IOptions<DatabaseSettings>>().Value);
+            services.AddSingleton<IMongoDatabaseFactory, MongoDatabaseFactory>();
+            services.AddSingleton<IRepositoryFactory, RepositoryFactory>();
 
-            services.AddSingleton<IServantRepository, ServantService>();
+            services.AddSingleton<IDbContext, DbContext>(
+                sp => 
+                {
+                    var dbSettings = sp.GetService<DatabaseSettings>();
+                    return new DbContext(
+                        sp.GetService<IRepositoryFactory>(), 
+                        dbSettings.ConnectionString, 
+                        dbSettings.Database);
+                }
+            );
 
+            services.AddSingleton<IServantRepository>(
+                sp => 
+                {
+                    var dbContext = sp.GetService<IDbContext>();
+                    return dbContext.Servants;
+                }
+            );
         }
 
         // This method gets called by the runtime. Use this method to configure the
@@ -47,6 +60,10 @@ namespace ZetsubouGacha
             {
 
                 app.UseDeveloperExceptionPage();
+                app.UseCors(builder =>
+                            builder.AllowAnyOrigin()
+                                    .AllowAnyHeader()
+                                    .AllowAnyMethod());
             }
             else
             {
@@ -55,10 +72,6 @@ namespace ZetsubouGacha
                 // production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
             }
-
-            // STRICTLY DEVELOPMENT ONLY.
-            app.UseCors(builder =>
-                            builder.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod());
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();
