@@ -15,10 +15,8 @@ Docker is highly recommended to run/test the project.
 
 ### Run the Backend Tests
 
-1. Go to the `.\Test\Backend.Tests\` directory.
-2. Ensure that an instance of MongoDB is running.
-3. `dotnet build -c Release`
-4. `dotnet vstest .\bin\Release\netcoreapp3.0\Backend.Tests.dll`
+1. Go to the root directory.
+2. `dotnet test`
 
 ### Run the Backend API
 
