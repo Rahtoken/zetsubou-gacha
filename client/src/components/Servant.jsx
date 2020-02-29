@@ -1,21 +1,27 @@
 import React, { useState } from "react";
+import { Card, Image, Button } from 'semantic-ui-react';
 
-const Servant = props => {
+const Servant = (props) => {
+
   const [image, changeImage] = useState(0);
+
   const images = [
     props.data.firstAscensionImage,
     props.data.finalAscensionImage
   ];
 
   return (
-    <div>
-      <h3>{props.data.name}</h3>
-      {props.data.title === "" ? null : <h3> Title: {props.data.title} </h3>}
-      <img src={images[image]} alt="Servant" />
-      <br />
-      <button onClick={() => changeImage((image + 1) % 2)}>Transform!</button>
-      <h3>{props.data.dialogue}</h3>
-    </div>
+    <>
+      <Card raised>
+        <Image src={images[image]} wrapped ui={false} />
+        <Card.Content>
+          <Card.Header>{props.data.name}</Card.Header>
+          <Card.Meta>{props.data.title}</Card.Meta>
+          <Card.Description>{props.data.dialogue}</Card.Description>
+        </Card.Content>
+      </Card>
+      <Button onClick={() => changeImage((image + 1) % 2)}>Transform!</Button>
+    </>
   );
 };
 
