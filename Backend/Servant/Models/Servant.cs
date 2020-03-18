@@ -6,7 +6,7 @@ namespace ZetsubouGacha.Servants.Models
     public class Servant
     {
         [BsonId]
-        ObjectId _id { get; }
+        private ObjectId _id { get; }
 
         [BsonElement("id")]
         public int Id { get; set; }
