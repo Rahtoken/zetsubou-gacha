@@ -1,6 +1,6 @@
-using System;
+using ZetsubouGacha.Servants.Models;
 
-namespace ZetsubouGacha.Servants.Models
+namespace ZetsubouGacha.Databases
 {
     public interface IRepositoryFactory
     {

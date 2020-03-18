@@ -1,4 +1,4 @@
-﻿namespace ZetsubouGacha.Servants.Settings
+﻿namespace ZetsubouGacha.Settings
 {
     public interface IDatabaseSettings
     {

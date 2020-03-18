@@ -1,9 +1,8 @@
-using System;
-using ZetsubouGacha.Servants.Models;
+using ZetsubouGacha.Databases;
 
-namespace ZetsubouGacha.Servants.Services
+namespace ZetsubouGacha.Services
 {
-    public class RepositoryOptions: IRepositoryOptions
+    public class RepositoryOptions : IRepositoryOptions
     {
         public string ConnectionString { get; set; }
 

@@ -1,0 +1,97 @@
+openapi: 3.0.0
+info:
+  title: Servant API
+  version: '1.0'
+  description: Retrieve Fate Servant information.
+servers:
+  - url: 'https://localhost:5001/api'
+    description: ZetsubouGacha API
+paths:
+  '/servant/{servantId}':
+    parameters:
+      - schema:
+          type: string
+        name: servantId
+        in: path
+        required: true
+    get:
+      summary: Get Servant by ID
+      tags: []
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Servant'
+              examples:
+                Servant with ID 33:
+                  value:
+                    id: 33
+                    name: Nero Claudius
+                    title: Emperor of Roses
+                    firstAscensionImage: 'https://vignette.wikia.nocookie.net/fategrandorder/images/7/71/Nero1.png/revision/latest/scale-to-width-down/350?cb=20170206151617'
+                    finalAscensionImage: 'https://vignette.wikia.nocookie.net/fategrandorder/images/4/42/Nero4.png/revision/latest/scale-to-width-down/350?cb=20170206151642'
+                    dialogue: 'Servant Saber. Nero Claudius, I have arrived in response to your call! Umu, you have chosen the right one! You sure know how to tell the difference!'
+                    audio: 'https://vignette.wikia.nocookie.net/fategrandorder/images/f/f4/Nero_Summon.ogg/revision/latest?cb=20181006062501'
+        '404':
+          description: Not Found
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  type:
+                    type: string
+                  title:
+                    type: string
+                  status:
+                    type: integer
+                  traceID:
+                    type: string
+              examples:
+                Invalid Servant ID response:
+                  value:
+                    type: 'https://tools.ietf.org/html/rfc7231#section-6.5.4'
+                    title: Not Found
+                    status: 404
+                    traceId: '|aa277ff-4e0b6d52f08896f2.'
+      operationId: get-servant-servantId
+      description: "Retrieve a servant's details by their ID."
+      parameters:
+        - schema:
+            type: number
+          in: query
+          name: servantId
+          description: The ID of the servant whose details you want to retreive.
+          required: true
+components:
+  schemas:
+    Servant:
+      title: Servant
+      type: object
+      description: An object containing the details of a Servant.
+      properties:
+        id:
+          type: integer
+        name:
+          type: string
+        title:
+          type: string
+        firstAscensionImage:
+          type: string
+        finalAscensionImage:
+          type: string
+        dialogue:
+          type: string
+        audio:
+          type: string
+      x-examples:
+        Servant with ID 33:
+          id: 33
+          name: Nero Claudius
+          title: Emperor of Roses
+          firstAscensionImage: 'https://vignette.wikia.nocookie.net/fategrandorder/images/7/71/Nero1.png/revision/latest/scale-to-width-down/350?cb=20170206151617'
+          finalAscensionImage: 'https://vignette.wikia.nocookie.net/fategrandorder/images/4/42/Nero4.png/revision/latest/scale-to-width-down/350?cb=20170206151642'
+          dialogue: 'Servant Saber. Nero Claudius, I have arrived in response to your call! Umu, you have chosen the right one! You sure know how to tell the difference!'
+          audio: 'https://vignette.wikia.nocookie.net/fategrandorder/images/f/f4/Nero_Summon.ogg/revision/latest?cb=20181006062501'

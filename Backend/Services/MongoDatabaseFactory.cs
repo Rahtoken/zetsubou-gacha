@@ -1,8 +1,7 @@
-using System;
 using MongoDB.Driver;
-using ZetsubouGacha.Servants.Models;
+using ZetsubouGacha.Databases;
 
-namespace ZetsubouGacha.Servants.Services
+namespace ZetsubouGacha.Services
 {
     public class MongoDatabaseFactory : IMongoDatabaseFactory
     {

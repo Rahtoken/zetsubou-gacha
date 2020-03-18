@@ -1,8 +1,8 @@
-using System;
-using MongoDB;
+using ZetsubouGacha.Databases;
 using ZetsubouGacha.Servants.Models;
+using ZetsubouGacha.Servants.Services;
 
-namespace ZetsubouGacha.Servants.Services
+namespace ZetsubouGacha.Services
 {
     public class RepositoryFactory : IRepositoryFactory
     {
@@ -16,7 +16,7 @@ namespace ZetsubouGacha.Servants.Services
         public IServantRepository Create(IRepositoryOptions repositoryOptions)
         {
             var database = databaseFactory.Connect(repositoryOptions.ConnectionString, repositoryOptions.DatabaseName);
-            return (IServantRepository) new ServantRepository(database.GetCollection<Servant>(repositoryOptions.CollectionName));
+            return new ServantRepository(database.GetCollection<Servant>(repositoryOptions.CollectionName));
         }
     }
 }
