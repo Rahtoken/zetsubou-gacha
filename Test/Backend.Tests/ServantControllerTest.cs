@@ -4,7 +4,7 @@ using Moq;
 using MongoDB.Driver;
 using ZetsubouGacha.Servants.Models;
 using ZetsubouGacha.Servants.Controllers;
-using ZetsubouGacha.Servants.Settings;
+using ZetsubouGacha.Databases;
 
 namespace ZetsubouGacha.Tests
 {

@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using ZetsubouGacha.Servants.Models;
-using ZetsubouGacha.Servants.Settings;
 
 namespace ZetsubouGacha.Servants.Services
 {

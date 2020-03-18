@@ -1,6 +1,4 @@
-using System;
-
-namespace ZetsubouGacha.Servants.Models
+namespace ZetsubouGacha.Databases
 {
     public interface IRepositoryOptions
     {
