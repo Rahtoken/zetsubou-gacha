@@ -8,7 +8,7 @@ namespace ZetsubouGacha.Servants.Services
     public class ServantRepository : IServantRepository
     {
         private readonly IMongoCollection<Servant> servants;
-     
+
         public ServantRepository(IMongoCollection<Servant> servantsCollection)
         {
             servants = servantsCollection;

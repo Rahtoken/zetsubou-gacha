@@ -34,18 +34,18 @@ namespace ZetsubouGacha
             services.AddSingleton<IRepositoryFactory, RepositoryFactory>();
 
             services.AddSingleton<IDbContext, DbContext>(
-                sp => 
+                sp =>
                 {
                     var dbSettings = sp.GetService<DatabaseSettings>();
                     return new DbContext(
-                        sp.GetService<IRepositoryFactory>(), 
-                        dbSettings.ConnectionString, 
+                        sp.GetService<IRepositoryFactory>(),
+                        dbSettings.ConnectionString,
                         dbSettings.Database);
                 }
             );
 
             services.AddSingleton<IServantRepository>(
-                sp => 
+                sp =>
                 {
                     var dbContext = sp.GetService<IDbContext>();
                     return dbContext.Servants;
@@ -59,7 +59,6 @@ namespace ZetsubouGacha
         {
             if (env.EnvironmentName == "Development")
             {
-
                 app.UseDeveloperExceptionPage();
                 app.UseCors(builder =>
                             builder.AllowAnyOrigin()

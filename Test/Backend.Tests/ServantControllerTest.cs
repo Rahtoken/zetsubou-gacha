@@ -1,10 +1,8 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System.Linq;
 using Moq;
-using MongoDB.Driver;
-using ZetsubouGacha.Servants.Models;
-using ZetsubouGacha.Servants.Controllers;
 using ZetsubouGacha.Databases;
+using ZetsubouGacha.Servants.Controllers;
+using ZetsubouGacha.Servants.Models;
 
 namespace ZetsubouGacha.Tests
 {
@@ -12,7 +10,7 @@ namespace ZetsubouGacha.Tests
     public class ServantControllerTest
     {
         [TestMethod]
-        public void ServantById()
+        public void ServantByIdSuccess()
         {
             var mockRepo = new Mock<IServantRepository>();
             var mockDbContext = new Mock<IDbContext>();
@@ -39,29 +37,19 @@ namespace ZetsubouGacha.Tests
         }
 
         [TestMethod]
-        public void AllServants()
+        public void ServantByIdFail()
         {
             var mockRepo = new Mock<IServantRepository>();
             var mockDbContext = new Mock<IDbContext>();
 
-            var servant = new Servant()
-            {
-                Id = 1,
-                Name = "MockedServant",
-                Title = "MockServantTitle",
-                FirstAscensionImage = "MockFirstAscImage",
-                FinalAscensionImage = "MockFinalAscImage",
-                Dialogue = "MockDialogue",
-                Audio = "MockAudio"
-            };
+            Servant servant = null;
 
-            int limit = 100;
-            mockRepo.Setup(repo => repo.GetAllServantsAsync(limit)).ReturnsAsync(Enumerable.Range(1, limit).Select(_ => servant));
+            mockRepo.Setup(repo => repo.GetServantByIdAsync(-1)).ReturnsAsync(servant);
             mockDbContext.Setup(db => db.Servants).Returns(mockRepo.Object);
 
             var sut = new ServantController(mockDbContext.Object);
-            var result = sut.AllServants(limit).Result.Value;
-            Assert.AreEqual(limit, result.Count());
+            var result = sut.ServantById(-1).Result.Value;
+            Assert.IsNull(result);
         }
     }
 }
